@@ -1,0 +1,82 @@
+[
+    {
+        "id": "5aefc81d-c5d2-41fc-bc7b-6117d1c7671e",
+        "type": "SINGLE_SELECT",
+        "question": "What type of company is it?",
+        "options": [
+            {
+                "id": "567a5789-ad9c-4b6e-9946-d2288e00dd3f",
+                "option": "Construction company"
+            },
+            {
+                "id": "b09c1744-c662-4879-a3fc-35b6cf808db8",
+                "option": "Craft enterprises"
+            },
+            {
+                "id": "6da05930-6493-4855-8c2f-e892089cbef2",
+                "option": "Scaffolding company"
+            },
+            {
+                "id": "2f68f1bb-434f-478e-98c3-def022b6b353",
+                "option": "Trading company"
+            },
+            {
+                "id": "44c4ef5d-7234-436c-961d-ba3b8b30b02f",
+                "option": "Production company"
+            },
+            {
+                "id": "ebf6c300-4c44-4a19-b822-a3ece594d142",
+                "option": "Education sector"
+            }
+        ]
+    },
+    {
+        "id": "034b7b45-2139-4b5f-8933-6b48dd732920",
+        "type": "SINGLE_SELECT",
+        "question": "What is the size of your company?",
+        "options": [
+            {
+                "id": "807c738f-af1f-41ff-88ce-22dae769ea0b",
+                "option": "1-10"
+            },
+            {
+                "id": "afe07a23-39fa-4752-89d0-a51fc8f64bdd",
+                "option": "11-50"
+            },
+            {
+                "id": "a52ccbc7-440d-43a2-80f7-bd7052a642de",
+                "option": "51-200"
+            },
+            {
+                "id": "7d07612b-434d-4958-bb10-d4603a2cc1d8",
+                "option": "201-2000"
+            },
+            {
+                "id": "3b5467c0-e7a3-4040-8a4f-a0a62896372b",
+                "option": "larger than 2000"
+            }
+        ]
+    },
+    {
+        "id": "56127ae3-c20b-4082-bfad-d6976bee7003",
+        "type": "DATE",
+        "question": "When do you wish to receive a follow-up?",
+        "options": [
+            {
+                "id": "f1b1b3b4-1b1b-4b3b-8b1b-1b1b1b1b1b1b",
+                "option": "Date"
+            }
+        ]
+    },
+    {
+        "id": "c1bc3fad-ff12-486c-9c71-e0bff2f2a2a9",
+        "type": "TEXT",
+        "question": "Any additional notes?",
+        "options": [
+            {
+                "id": "f1b1b3b4-1b1b-4b3b-8b1b-a0a62896372b",
+                "option": "What additional information would you like to share?"
+            }
+        ]
+    }
+]

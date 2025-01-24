@@ -1,0 +1,153 @@
+[
+    {
+        "id": "aa2d8cdd-0758-4035-b0b6-ca18e2f380d8",
+        "type": "SINGLE_SELECT",
+        "question": "Data processing consent",
+        "options": [
+            {
+                "id": "ee0437c0-6335-4b88-8bc5-d4eb8e2c68bf",
+                "option": "Yes"
+            },
+            {
+                "id": "d357ab84-929f-440a-b9ad-42ff36402a53",
+                "option": "No"
+            }
+        ]
+    },
+    {
+        "id": "12e1ed1d-edaa-4e93-8645-de3850e998f9",
+        "type": "SINGLE_SELECT",
+        "question": "Customer group",
+        "options": [
+            {
+                "id": "53cc44fa-397b-40bf-8af8-3f629818c93b",
+                "option": "End User"
+            },
+            {
+                "id": "bab850d1-2de8-4cae-9f87-2c86d41615e8",
+                "option": "Wholesaler, Distributor"
+            },
+            {
+                "id": "31ffae1e-f742-4a0b-b279-eb393483f075",
+                "option": "Consultant, Planner, Architect"
+            },
+            {
+                "id": "ed56f777-a7cd-48db-9d36-e2579c57e361",
+                "option": "R&D"
+            }
+        ]
+    },
+    {
+        "id": "625012ae-9192-4cf6-a73d-55e1813d6014",
+        "type": "MULTI_SELECT",
+        "question": "Products interested in",
+        "options": [
+            {
+                "id": "4ccbe8ae-ce37-4822-830a-542aa0475d30",
+                "option": "MY-SYSTEM"
+            },
+            {
+                "id": "58fdea0d-46db-41ef-a089-825f6ebfbb99",
+                "option": "Notion"
+            },
+            {
+                "id": "13906f18-4e39-4d39-8da9-b5e49d9e4cc5",
+                "option": "JTS"
+            },
+            {
+                "id": "1098f7be-b411-427b-a27a-28e16019c454",
+                "option": "JS EcoLine"
+            },
+            {
+                "id": "313457eb-f171-4497-99d4-25fb971a9f9e",
+                "option": "AKW100"
+            },
+            {
+                "id": "92be0772-2471-4a67-bcb3-18894db1fb5d",
+                "option": "AX100"
+            }
+        ]
+    },
+    {
+        "id": "0699fc5a-34a4-4160-bda1-fb135a3615da",
+        "type": "MULTI_SELECT",
+        "question": "What kind of follow up is planned",
+        "options": [
+            {
+                "id": "54c28cbb-1da5-4797-a60a-69bf7f67d4d6",
+                "option": "Email"
+            },
+            {
+                "id": "46cd9717-6aa9-4d75-8bc6-965b4fdf7d9d",
+                "option": "Phone"
+            },
+            {
+                "id": "fd93612d-b5a7-4ac8-b3bf-6b2e441f7ef6",
+                "option": "Schedule a Visit"
+            },
+            {
+                "id": "0448361d-b380-4a4b-ac53-db242983a293",
+                "option": "No action"
+            }
+        ]
+    },
+    {
+        "id": "815dab84-bc5e-4764-9777-0c0126e3173e",
+        "type": "MULTI_SELECT",
+        "question": "Who to copy in follow up",
+        "options": [
+            {
+                "id": "6727080a-43f2-4198-9ae9-d5265c2968a2",
+                "option": "Stephan Maier"
+            },
+            {
+                "id": "06f2722d-fc46-43d7-b019-e1c687268eb2",
+                "option": "Joachim Wagner"
+            },
+            {
+                "id": "63ac3407-81ba-46c1-bdd4-44399f52a737",
+                "option": "Erik Schneider"
+            },
+            {
+                "id": "200568b3-2cc0-4e93-8fdf-e5d46423b2f2",
+                "option": "Oliver Eibel"
+            },
+            {
+                "id": "040e5aa8-79af-4033-a9bb-dd02591da101",
+                "option": "Angelina Haug"
+            },
+            {
+                "id": "c333e0fc-9a9d-4046-94bf-55e382c14f91",
+                "option": "Marisa Peng"
+            },
+            {
+                "id": "4801f26f-5f21-4135-9745-cb3723511eba",
+                "option": "Johannes Wagner"
+            },
+            {
+                "id": "f3367795-f31f-4c16-8f2d-681f5135d82e",
+                "option": "Jessica Hanke"
+            },
+            {
+                "id": "0705a961-7d4a-48a7-a370-5f29bcb66cd6",
+                "option": "Sandro Kalter"
+            },
+            {
+                "id": "bce33461-911b-4f77-abf9-c16c954d1ce6",
+                "option": "Jens Roschmann"
+            },
+            {
+                "id": "7bd036a3-2f0f-4191-bd96-78b4eafbf48a",
+                "option": "Domiki Stein"
+            },
+            {
+                "id": "6e8c0cdf-3667-44ca-9d0b-137fee671022",
+                "option": "Sean Kennin"
+            },
+            {
+                "id": "e703af01-981f-4433-a40f-fe8dcdb8d3b3",
+                "option": "Tim Persson"
+            }
+        ]
+    }
+]

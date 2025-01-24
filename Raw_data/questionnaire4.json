@@ -1,0 +1,117 @@
+[
+    {
+        "id": "25f0cc40-a168-40f9-aef3-5d9956de4d11",
+        "type": "SINGLE_SELECT",
+        "question": "Which language is wanted for communication? ",
+        "options": [
+            {
+                "id": "4908d36f-eeac-4d58-9c11-357e419222b2",
+                "option": "German"
+            },
+            {
+                "id": "e1843724-18b2-4010-ae4f-45ecbd88a547",
+                "option": "Italian"
+            },
+            {
+                "id": "8c0cafa3-3666-442d-8464-f18cfb5b81bc",
+                "option": "Japanese "
+            },
+            {
+                "id": "892831da-c467-44e8-b7a6-72938fd91659",
+                "option": "English"
+            },
+            {
+                "id": "aab1f8d2-d0fc-4b45-a383-249f1ba6afec",
+                "option": "Spanish"
+            }
+        ]
+    },
+    {
+        "id": "6fddae02-26b3-4f76-8387-e02d44b19198",
+        "type": "MULTI_SELECT",
+        "question": "What is the type of contact?",
+        "options": [
+            {
+                "id": "59ffd3d5-757b-491b-bcc0-59241a7f0b78",
+                "option": "Existing customer"
+            },
+            {
+                "id": "ee91f72e-eb3d-47cc-b050-a3e7425352c3",
+                "option": "Supplier"
+            },
+            {
+                "id": "1799f43b-f51f-4cfd-a7d8-cdfb880e6dbf",
+                "option": "New customer / Prospect"
+            },
+            {
+                "id": "d989a6c4-deb5-4d28-bf50-d31ad93bf571",
+                "option": "Press / media"
+            },
+            {
+                "id": "15a26a55-0aab-4378-ab7d-8daed7c546bb",
+                "option": "Competitor"
+            }
+        ]
+    },
+    {
+            "id": "68048ce3-a6fe-4cb1-adea-7125fa56d743",
+            "type": "MULTI_SELECT",
+            "question": "What is the contact person interested in?",
+            "options": [
+                {
+                    "id": "f3b3b3b3-3b3b-3b3b-3b3b-3b3b3b3b3b3b",
+                    "option": "100 Additive Manufacturing"
+                },
+                {
+                    "id": "f3b3b3b3-3b3b-3b3b-3b3b-3b3b3b3b3b3b",
+                    "option": "200 Automation"
+                },
+                {
+                    "id": "f3b3b3b3-3b3b-3b3b-3b3b-3b3b3b3b3b3b",
+                    "option": "300 Advanced Manufacturing"
+                },
+                {
+                    "id": "f3b3b3b3-3b3b-3b3b-3b3b-3b3b3b3b3b3b",
+                    "option": "234 Assembly Systems"
+                },
+                {
+                    "id": "f3b3b3b3-3b3b-3b3b-3b3b-3b3b3b3b3b3b",
+                    "option": "256 Joining Systems for large components"
+                },
+                {
+                    "id": "f3b3b3b3-3b3b-3b3b-3b3b-3b3b3b3b3b3b",
+                    "option": "Others"
+                }
+            ]
+    },
+    {
+        "id": "3dd27f03-db17-4608-8f99-158f5a7c7abf",
+        "type": "NUMBER",
+        "question": "What phone number can we use for contact?",
+        "options": [
+            {
+                "id": "4a34e0e1-0c76-494e-b779-90763685b18d",
+                "option": "phone number"
+            }
+        ]
+    },
+    {
+        "id": "fd61784d-c75b-4e93-ac5d-b8d5425e0844",
+        "type": "MULTI_SELECT",
+        "question": "When does the contact person wish to receive a follow up?",
+        "options": [
+            {
+                "id": "e5e53e1b-75f0-4994-a626-07e639c69590",
+                "option": "1 week"
+            },
+            {
+                "id": "9eef0568-554e-4a51-b975-9705f0ab0354",
+                "option": "2 weeks"
+            },
+            {
+                "id": "bc193661-b50e-4149-a4a6-3802aa2b52f5",
+                "option": "3 weeks"
+            }
+        ]
+    }
+]

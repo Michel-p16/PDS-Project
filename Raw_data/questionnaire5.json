@@ -1,0 +1,195 @@
+[
+    {
+        "id": "6f32fe36-96db-498a-a853-4dccb99b49d4",
+        "type": "SINGLE_SELECT",
+        "question": "Customer type",
+        "options": [
+            {
+                "id": "57799717-9780-45f3-b8a8-56c15fdc579f",
+                "option": "New customer"
+            },
+            {
+                "id": "d1b2a8eb-3684-410d-aec7-32bbde92218c",
+                "option": "Existing customer"
+            },
+            {
+                "id": "6f4d1a3b-f0a3-4064-8939-f679de34552c",
+                "option": "Partner"
+            },
+            {
+                "id": "3ac5dbfd-164f-42a3-a824-e28d40fd74dd",
+                "option": "Applicant"
+            }
+        ]
+    },
+    {
+        "id": "0407e2fa-e5d3-4464-a33e-210013621431",
+        "type": "SINGLE_SELECT",
+        "question": "Customer satisfaction",
+        "options": [
+            {
+                "id": "5031fa14-e1a1-4ea0-8ff3-5577bb3a1e1c",
+                "option": "Very satisfied"
+            },
+            {
+                "id": "e9316dbd-d2e9-4e47-a727-8d31c321ceb2",
+                "option": "Satisfied"
+            },
+            {
+                "id": "509201f6-f480-4bad-9b70-d9e7c5ec3315",
+                "option": "Unsatisfied"
+            },
+            {
+                "id": "da961c5b-073c-44d0-b346-b99245cc83be",
+                "option": "Very unsatisfied"
+            }
+        ]
+    },
+    {
+        "id": "47466ef3-68cf-4cfa-aa2f-7e395ad4590f",
+        "type": "SINGLE_SELECT",
+        "question": "Size of the trade fair team (on average)",
+        "options": [
+            {
+                "id": "549deb8e-ed74-41dc-a9ac-c4b90439d88a",
+                "option": "1-5"
+            },
+            {
+                "id": "7e22d8a7-7a4b-48ae-ad4a-271c93f912bf",
+                "option": "6-10"
+            },
+            {
+                "id": "63f64c89-5e60-4317-a0d5-e74ad5362823",
+                "option": "11-15"
+            },
+            {
+                "id": "638511f8-010d-47a3-ad06-a16f04812989",
+                "option": "16-20"
+            },
+            {
+                "id": "73905688-90d8-46cb-a718-522e1fb6b690",
+                "option": "21-30"
+            },
+            {
+                "id": "c8d82b96-9704-4cae-ae30-c705f60e26e3",
+                "option": "31-40"
+            },
+            {
+                "id": "632eeb14-e201-492d-b374-34b0935ee56f",
+                "option": "more than 40"
+            }
+        ]
+    },
+    {
+        "id": "7bb14352-80ce-4ebf-b81c-70e0755cc7e6",
+        "type": "SINGLE_SELECT",
+        "question": "CRM-System",
+        "options": [
+            {
+                "id": "8e8fc562-6a2c-4692-8ae5-2a52da4cb9fc",
+                "option": "Salesforce"
+            },
+            {
+                "id": "b3edff55-9e0b-4b07-b303-94749f174e24",
+                "option": "Pipedrive"
+            },
+            {
+                "id": "f2e6d399-0e54-4406-a734-b93139cd137a",
+                "option": "Close.io"
+            },
+            {
+                "id": "f34de2d0-b4c4-4e1f-9afc-79b60b3648af",
+                "option": "Microsoft Dynamics"
+            },
+            {
+                "id": "026c6bf5-1a5f-429d-bb0f-256b9250f465",
+                "option": "HubSpot"
+            },
+            {
+                "id": "db2c8b3a-bcbb-44a6-af55-0a1de3e157f4",
+                "option": "CAS"
+            },
+            {
+                "id": "8a6e75ed-a4e5-4d69-925f-48c3583c17a7",
+                "option": "SAP Sales Cloud"
+            },
+            {
+                "id": "fe6aed13-8a56-465c-a1cb-1021aa14411a",
+                "option": "Adito"
+            }
+        ]
+    },
+    {
+        "id": "e95e34ce-1758-4037-9474-99d0557a7a29",
+        "type": "MULTI_SELECT",
+        "question": "Productinterests",
+        "options": [
+            {
+                "id": "ea26e309-e43d-4eba-be81-45a8d00cbc8f",
+                "option": "BusinessCards"
+            },
+            {
+                "id": "1f03086d-6f6b-4d45-88b2-294fc4c4e201",
+                "option": "DataEnrichment"
+            },
+            {
+                "id": "d6b79f06-30ff-46b3-878f-6b2943df16e1",
+                "option": "VisitReport"
+            },
+            {
+                "id": "5b9779a4-f73a-40b3-8728-e929f7314211",
+                "option": "Data Cleansing"
+            },
+            {
+                "id": "c563a8c7-9cfa-48ca-b553-75cb30c3e8de",
+                "option": "DataQuality"
+            }
+        ]
+    },
+    {
+        "id": "72f9264b-8228-4f14-8387-a4d49797cfa0",
+        "type": "MULTI_SELECT",
+        "question": "Searches a solution for",
+        "options": [
+            {
+                "id": "938ec9af-8740-4642-a624-bc751175908d",
+                "option": "Scan business cards"
+            },
+            {
+                "id": "649864a5-d348-40d1-9133-67e48ee4b2c7",
+                "option": "Clean up CRM"
+            },
+            {
+                "id": "dafba3a0-9c09-4ad3-95fe-d78645fe2639",
+                "option": "Extract data from emails"
+            },
+            {
+                "id": "ffe96cfc-788c-4993-baa6-026edc01585b",
+                "option": "Improve CRM data quality"
+            },
+            {
+                "id": "e399f29b-0233-4939-ab09-9c08bd09150c",
+                "option": "Capture trade fair contacts"
+            }
+        ]
+    },
+    {
+        "id": "6c5535e3-7d9f-4b81-9b44-e3c1a571bc51",
+        "type": "SINGLE_SELECT",
+        "question": "Next steps",
+        "options": [
+            {
+                "id": "603910cb-2c4c-4911-9f9b-c85ada7ccb99",
+                "option": "Offer"
+            },
+            {
+                "id": "b46d3f53-bcd5-4b81-976d-4f4a27d1a7b3",
+                "option": "Meeting"
+            },
+            {
+                "id": "a42139dc-ccf6-4a95-85ef-9b0b6035e60a",
+                "option": "Call"
+            }
+        ]
+    }
+]
