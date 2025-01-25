@@ -1,0 +1,3781 @@
+[
+    {
+        "question": "What are your product interests?",
+        "type": "MULTI_SELECT",
+        "answers": [
+            {
+                "answer_text": "I'm interested in improving data quality and generating business cards.",
+                "answer_label": "DataQuality, BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.976867"
+            },
+            {
+                "answer_text": "My priorities are data enrichment and visit reports.",
+                "answer_label": "DataEnrichment, VisitReport",
+                "timestamp": "2025-01-25T21:31:30.976977"
+            },
+            {
+                "answer_text": "I need data cleansing and improved data quality.",
+                "answer_label": "Data Cleansing, DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977001"
+            },
+            {
+                "answer_text": "I'm focused on business cards and data cleansing.",
+                "answer_label": "BusinessCards, Data Cleansing",
+                "timestamp": "2025-01-25T21:31:30.977012"
+            },
+            {
+                "answer_text": "My interest lies in visit reports and data enrichment.",
+                "answer_label": "VisitReport, DataEnrichment",
+                "timestamp": "2025-01-25T21:31:30.977022"
+            },
+            {
+                "answer_text": "I'm exploring data cleansing, data enrichment, and data quality solutions.",
+                "answer_label": "Data Cleansing, DataEnrichment, DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977031"
+            },
+            {
+                "answer_text": "Business cards are crucial, but data quality is my primary concern.",
+                "answer_label": "BusinessCards, DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977040"
+            },
+            {
+                "answer_text": "Data enrichment and visit reports are key for my business operations.",
+                "answer_label": "DataEnrichment, VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977049"
+            },
+            {
+                "answer_text": "I need data cleansing to improve my data quality.",
+                "answer_label": "Data Cleansing, DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977057"
+            },
+            {
+                "answer_text": "My needs include business cards, data enrichment, and visit reports.",
+                "answer_label": "BusinessCards, DataEnrichment, VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977066"
+            },
+            {
+                "answer_text": "I'm interested in improving data quality through data cleansing.",
+                "answer_label": "DataQuality, Data Cleansing",
+                "timestamp": "2025-01-25T21:31:30.977074"
+            },
+            {
+                "answer_text": "My focus is on data enrichment and its impact on data quality.",
+                "answer_label": "DataEnrichment, DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977083"
+            },
+            {
+                "answer_text": "Visit reports and business cards are essential for client communication.",
+                "answer_label": "VisitReport, BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977091"
+            },
+            {
+                "answer_text": "Data cleansing is crucial for maintaining high data quality.",
+                "answer_label": "Data Cleansing, DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977099"
+            },
+            {
+                "answer_text": "I'm looking for solutions that improve data quality and generate effective business cards.",
+                "answer_label": "DataQuality, BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977107"
+            },
+            {
+                "answer_text": "My primary interest is in data enrichment for visit reports.",
+                "answer_label": "DataEnrichment, VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977115"
+            },
+            {
+                "answer_text": "I'm exploring options for data cleansing and business cards.",
+                "answer_label": "Data Cleansing, BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977124"
+            },
+            {
+                "answer_text": "Data quality is paramount, and I need efficient data cleansing tools.",
+                "answer_label": "DataQuality, Data Cleansing",
+                "timestamp": "2025-01-25T21:31:30.977132"
+            },
+            {
+                "answer_text": "I'm interested in all aspects of data quality management.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977140"
+            },
+            {
+                "answer_text": "Business cards are essential for networking.",
+                "answer_label": "BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977149"
+            },
+            {
+                "answer_text": "Visit reports are crucial for tracking progress.",
+                "answer_label": "VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977157"
+            },
+            {
+                "answer_text": "Data enrichment improves my decision-making process.",
+                "answer_label": "DataEnrichment",
+                "timestamp": "2025-01-25T21:31:30.977165"
+            },
+            {
+                "answer_text": "Data cleansing is vital for accurate reporting.",
+                "answer_label": "Data Cleansing",
+                "timestamp": "2025-01-25T21:31:30.977172"
+            },
+            {
+                "answer_text": "I need a comprehensive solution for improving data quality.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977180"
+            },
+            {
+                "answer_text": "I am looking for a reliable way to generate business cards.",
+                "answer_label": "BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977188"
+            },
+            {
+                "answer_text": "I require a system for managing visit reports efficiently.",
+                "answer_label": "VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977196"
+            },
+            {
+                "answer_text": "I want to enhance the quality of my data.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977204"
+            },
+            {
+                "answer_text": "My top priority is accurate data.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977213"
+            },
+            {
+                "answer_text": "I want to create professional business cards.",
+                "answer_label": "BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977221"
+            },
+            {
+                "answer_text": "I need a better system for recording visit reports.",
+                "answer_label": "VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977229"
+            },
+            {
+                "answer_text": "My goal is to improve the accuracy of my data.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977237"
+            },
+            {
+                "answer_text": "I'm looking for a streamlined process for creating business cards.",
+                "answer_label": "BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977245"
+            },
+            {
+                "answer_text": "I need to improve the effectiveness of my visit reports.",
+                "answer_label": "VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977254"
+            },
+            {
+                "answer_text": "I'm interested in data management solutions.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977263"
+            },
+            {
+                "answer_text": "My business needs high-quality data.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977279"
+            },
+            {
+                "answer_text": "I need a system to track my client visits.",
+                "answer_label": "VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977288"
+            },
+            {
+                "answer_text": "I need to generate business cards for marketing purposes.",
+                "answer_label": "BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977296"
+            },
+            {
+                "answer_text": "I'm concerned about improving the accuracy of my data.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977304"
+            },
+            {
+                "answer_text": "I'm looking for ways to improve client communication through business cards.",
+                "answer_label": "BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977312"
+            },
+            {
+                "answer_text": "I need a better way to record my client interactions.",
+                "answer_label": "VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977321"
+            },
+            {
+                "answer_text": "I'm investing in improving data quality.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977329"
+            },
+            {
+                "answer_text": "I need an effective method for generating professional business cards.",
+                "answer_label": "BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977337"
+            },
+            {
+                "answer_text": "My focus is on enhancing data quality.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977344"
+            },
+            {
+                "answer_text": "I'm looking for tools to automate data cleansing.",
+                "answer_label": "Data Cleansing",
+                "timestamp": "2025-01-25T21:31:30.977352"
+            },
+            {
+                "answer_text": "I need a tool for enriching my customer data.",
+                "answer_label": "DataEnrichment",
+                "timestamp": "2025-01-25T21:31:30.977360"
+            },
+            {
+                "answer_text": "My goal is to improve data quality through data cleansing and enrichment.",
+                "answer_label": "DataQuality, Data Cleansing, DataEnrichment",
+                "timestamp": "2025-01-25T21:31:30.977368"
+            },
+            {
+                "answer_text": "Business cards, visit reports, and data quality are all important to me.",
+                "answer_label": "BusinessCards, VisitReport, DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977397"
+            },
+            {
+                "answer_text": "Data cleansing, data enrichment, and business cards are my key interests.",
+                "answer_label": "Data Cleansing, DataEnrichment, BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977445"
+            },
+            {
+                "answer_text": "I'm looking for ways to improve data quality, and also to generate effective business cards.",
+                "answer_label": "DataQuality, BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977453"
+            },
+            {
+                "answer_text": "I need better data and a better way to track client interactions.",
+                "answer_label": "DataQuality, VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977461"
+            },
+            {
+                "answer_text": "I'm interested in using data enrichment to improve my visit reports.",
+                "answer_label": "DataEnrichment, VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977469"
+            },
+            {
+                "answer_text": "Data cleansing and data enrichment are crucial for improved data quality.",
+                "answer_label": "Data Cleansing, DataEnrichment, DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977476"
+            },
+            {
+                "answer_text": "I need a system for managing business cards, visit reports, and data quality.",
+                "answer_label": "BusinessCards, VisitReport, DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977483"
+            },
+            {
+                "answer_text": "I'm looking for a comprehensive data management solution.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977491"
+            },
+            {
+                "answer_text": "My needs include business cards and data enrichment.",
+                "answer_label": "BusinessCards, DataEnrichment",
+                "timestamp": "2025-01-25T21:31:30.977497"
+            },
+            {
+                "answer_text": "I'm focusing on improving data quality and visit reports.",
+                "answer_label": "DataQuality, VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977504"
+            },
+            {
+                "answer_text": "My priorities are data cleansing and data enrichment.",
+                "answer_label": "Data Cleansing, DataEnrichment",
+                "timestamp": "2025-01-25T21:31:30.977512"
+            },
+            {
+                "answer_text": "I'm interested in business cards and data quality.",
+                "answer_label": "BusinessCards, DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977519"
+            },
+            {
+                "answer_text": "I need visit reports and data cleansing.",
+                "answer_label": "VisitReport, Data Cleansing",
+                "timestamp": "2025-01-25T21:31:30.977526"
+            },
+            {
+                "answer_text": "I'm exploring data cleansing, data enrichment, and visit reports.",
+                "answer_label": "Data Cleansing, DataEnrichment, VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977532"
+            },
+            {
+                "answer_text": "Business cards are a priority, but I also need data enrichment.",
+                "answer_label": "BusinessCards, DataEnrichment",
+                "timestamp": "2025-01-25T21:31:30.977539"
+            },
+            {
+                "answer_text": "Data enrichment and data quality are essential for my business.",
+                "answer_label": "DataEnrichment, DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977546"
+            },
+            {
+                "answer_text": "I need data cleansing for accurate reporting and data quality.",
+                "answer_label": "Data Cleansing, DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977552"
+            },
+            {
+                "answer_text": "My needs include business cards, data cleansing, and visit reports.",
+                "answer_label": "BusinessCards, Data Cleansing, VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977559"
+            },
+            {
+                "answer_text": "I'm interested in all aspects of data management and business cards.",
+                "answer_label": "DataQuality, BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977566"
+            },
+            {
+                "answer_text": "My primary interest is in efficient data management practices.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977573"
+            },
+            {
+                "answer_text": "I'm looking for tools to streamline data processes.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977579"
+            },
+            {
+                "answer_text": "I need to improve my client interaction tracking.",
+                "answer_label": "VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977586"
+            },
+            {
+                "answer_text": "I'm looking for better ways to manage my contact information.",
+                "answer_label": "BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977593"
+            },
+            {
+                "answer_text": "I'm interested in improving the accuracy and completeness of my data.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977599"
+            },
+            {
+                "answer_text": "I'm focused on enhancing the effectiveness of my client interactions.",
+                "answer_label": "VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977606"
+            },
+            {
+                "answer_text": "I need a system to track my business cards and visit reports.",
+                "answer_label": "BusinessCards, VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977612"
+            },
+            {
+                "answer_text": "I'm interested in all available data quality tools.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977619"
+            },
+            {
+                "answer_text": "My business relies on accurate and complete data.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977626"
+            },
+            {
+                "answer_text": "I want to improve my customer relationship management.",
+                "answer_label": "DataQuality, DataEnrichment, VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977633"
+            },
+            {
+                "answer_text": "I'm exploring options for improving data quality through data enrichment.",
+                "answer_label": "DataQuality, DataEnrichment",
+                "timestamp": "2025-01-25T21:31:30.977640"
+            },
+            {
+                "answer_text": "I need data cleansing for accurate reporting.",
+                "answer_label": "Data Cleansing",
+                "timestamp": "2025-01-25T21:31:30.977646"
+            },
+            {
+                "answer_text": "My top priority is generating accurate and professional business cards.",
+                "answer_label": "BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977654"
+            },
+            {
+                "answer_text": "I need a reliable way to manage my visit reports and ensure data quality.",
+                "answer_label": "VisitReport, DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977661"
+            },
+            {
+                "answer_text": "I'm exploring data cleansing techniques to improve data quality.",
+                "answer_label": "Data Cleansing, DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977668"
+            },
+            {
+                "answer_text": "I need efficient tools for data enrichment and visit reporting.",
+                "answer_label": "DataEnrichment, VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977674"
+            },
+            {
+                "answer_text": "My business requires high-quality business cards and data.",
+                "answer_label": "BusinessCards, DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977681"
+            },
+            {
+                "answer_text": "I'm interested in streamlining data processes and improving client communications.",
+                "answer_label": "DataQuality, BusinessCards, VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977687"
+            },
+            {
+                "answer_text": "I need a solution that integrates data cleansing, enrichment, and reporting.",
+                "answer_label": "Data Cleansing, DataEnrichment, VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977694"
+            },
+            {
+                "answer_text": "I'm looking for a way to improve data quality and client relationships.",
+                "answer_label": "DataQuality, VisitReport, BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977701"
+            },
+            {
+                "answer_text": "I need to improve the accuracy of my data for better business decisions.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977707"
+            },
+            {
+                "answer_text": "I'm looking for tools to improve the quality and efficiency of my work.",
+                "answer_label": "DataQuality, DataEnrichment, Data Cleansing, VisitReport, BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977714"
+            },
+            {
+                "answer_text": "I'm interested in improving overall data quality.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977720"
+            },
+            {
+                "answer_text": "I need effective tools for managing client data.",
+                "answer_label": "DataQuality, DataEnrichment, Data Cleansing",
+                "timestamp": "2025-01-25T21:31:30.977727"
+            },
+            {
+                "answer_text": "I'm focused on improving business processes through better data.",
+                "answer_label": "DataQuality, DataEnrichment, Data Cleansing",
+                "timestamp": "2025-01-25T21:31:30.977835"
+            },
+            {
+                "answer_text": "I'm looking for ways to leverage data for improved client interactions.",
+                "answer_label": "DataEnrichment, VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977849"
+            },
+            {
+                "answer_text": "I need a solution for managing business cards, visit reports, and data quality.",
+                "answer_label": "BusinessCards, VisitReport, DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977856"
+            },
+            {
+                "answer_text": "I'm interested in integrating data quality improvement into my workflow.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977864"
+            },
+            {
+                "answer_text": "I need a comprehensive system for managing client information.",
+                "answer_label": "BusinessCards, VisitReport, DataQuality, DataEnrichment, Data Cleansing",
+                "timestamp": "2025-01-25T21:31:30.977872"
+            },
+            {
+                "answer_text": "I'm exploring all aspects of data management.",
+                "answer_label": "DataQuality, DataEnrichment, Data Cleansing",
+                "timestamp": "2025-01-25T21:31:30.977880"
+            },
+            {
+                "answer_text": "I'm looking for tools to automate data processes.",
+                "answer_label": "Data Cleansing, DataEnrichment",
+                "timestamp": "2025-01-25T21:31:30.977887"
+            },
+            {
+                "answer_text": "I'm interested in enhancing client relationships through effective communication.",
+                "answer_label": "BusinessCards, VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977893"
+            },
+            {
+                "answer_text": "I need a system for managing my business contacts and visit history.",
+                "answer_label": "BusinessCards, VisitReport",
+                "timestamp": "2025-01-25T21:31:30.977899"
+            },
+            {
+                "answer_text": "My goal is to maintain high data quality for improved decision-making.",
+                "answer_label": "DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977906"
+            },
+            {
+                "answer_text": "I'm looking for a way to improve my data quality while improving client engagement.",
+                "answer_label": "DataQuality, VisitReport, BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977913"
+            },
+            {
+                "answer_text": "I need tools to help me improve my client management.",
+                "answer_label": "BusinessCards, VisitReport, DataQuality, DataEnrichment, Data Cleansing",
+                "timestamp": "2025-01-25T21:31:30.977920"
+            },
+            {
+                "answer_text": "I'm exploring various ways to improve my data.",
+                "answer_label": "DataQuality, DataEnrichment, Data Cleansing",
+                "timestamp": "2025-01-25T21:31:30.977927"
+            },
+            {
+                "answer_text": "I'm interested in all aspects of data management and client interaction.",
+                "answer_label": "DataQuality, DataEnrichment, Data Cleansing, VisitReport, BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977933"
+            },
+            {
+                "answer_text": "I'm looking for a comprehensive solution to improve my business operations.",
+                "answer_label": "DataQuality, DataEnrichment, Data Cleansing, VisitReport, BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977940"
+            },
+            {
+                "answer_text": "I'm interested in efficient data management techniques.",
+                "answer_label": "DataQuality, DataEnrichment, Data Cleansing",
+                "timestamp": "2025-01-25T21:31:30.977946"
+            },
+            {
+                "answer_text": "I'm looking for solutions to streamline my business processes.",
+                "answer_label": "DataQuality, DataEnrichment, Data Cleansing, VisitReport, BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977953"
+            },
+            {
+                "answer_text": "I'm exploring various options for improving data quality and business efficiency.",
+                "answer_label": "DataQuality, DataEnrichment, Data Cleansing, VisitReport, BusinessCards",
+                "timestamp": "2025-01-25T21:31:30.977960"
+            },
+            {
+                "answer_text": "I need a system to manage my business cards, visit reports, and data quality.",
+                "answer_label": "BusinessCards, VisitReport, DataQuality",
+                "timestamp": "2025-01-25T21:31:30.977966"
+            },
+            {
+                "answer_text": "I'm interested in all the above.",
+                "answer_label": "BusinessCards, VisitReport, DataQuality, DataEnrichment, Data Cleansing",
+                "timestamp": "2025-01-25T21:31:30.977973"
+            }
+        ]
+    },
+    {
+        "question": "What problem are you trying to solve?",
+        "type": "MULTI_SELECT",
+        "answers": [
+            {
+                "answer_text": "I'm building a system to efficiently digitize business cards and subsequently improve the quality of our CRM data.",
+                "answer_label": "Scan business cards, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562263"
+            },
+            {
+                "answer_text": "I aim to streamline contact management by automatically extracting key information from emails and cleaning up our CRM.",
+                "answer_label": "Extract data from emails, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.562389"
+            },
+            {
+                "answer_text": "My goal is to enhance our CRM data quality by integrating data from scanned business cards and emails.",
+                "answer_label": "Improve CRM data quality, Scan business cards, Extract data from emails",
+                "timestamp": "2025-01-25T21:31:53.562408"
+            },
+            {
+                "answer_text": "I'm developing a solution to improve data quality within our CRM by capturing contacts from trade fairs and cleaning pre-existing data.",
+                "answer_label": "Improve CRM data quality, Capture trade fair contacts, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.562417"
+            },
+            {
+                "answer_text": "The problem I'm addressing is inefficient contact management, specifically focusing on extracting information from emails and business cards to improve our CRM.",
+                "answer_label": "Extract data from emails, Scan business cards, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562424"
+            },
+            {
+                "answer_text": "I'm trying to solve the issue of inaccurate and incomplete CRM data by implementing a system that scans business cards and extracts data from emails.",
+                "answer_label": "Improve CRM data quality, Scan business cards, Extract data from emails",
+                "timestamp": "2025-01-25T21:31:53.562433"
+            },
+            {
+                "answer_text": "Our challenge is to maintain a clean and accurate CRM by automating the process of capturing trade fair contacts and cleaning existing data.",
+                "answer_label": "Clean up CRM, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.562440"
+            },
+            {
+                "answer_text": "The project focuses on leveraging technology to improve the efficiency and accuracy of our CRM data by automating data entry from various sources.",
+                "answer_label": "Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562447"
+            },
+            {
+                "answer_text": "I'm working on a solution to better manage contacts gathered from trade shows, ensuring accurate data entry into our CRM.",
+                "answer_label": "Capture trade fair contacts, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562453"
+            },
+            {
+                "answer_text": "We need a better way to manage the influx of contact information from trade fairs and to maintain the integrity of our CRM.",
+                "answer_label": "Capture trade fair contacts, Clean up CRM, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562460"
+            },
+            {
+                "answer_text": "Our current CRM is messy and needs a thorough cleanup, especially considering the data from scanned business cards that needs to be added correctly.",
+                "answer_label": "Clean up CRM, Scan business cards, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562468"
+            },
+            {
+                "answer_text": "I'm developing a system to efficiently capture, clean, and integrate contact information from various sources into our CRM.",
+                "answer_label": "Clean up CRM, Improve CRM data quality, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.562475"
+            },
+            {
+                "answer_text": "The problem we're solving is the manual and time-consuming process of adding trade fair contacts to our CRM database.",
+                "answer_label": "Capture trade fair contacts, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562482"
+            },
+            {
+                "answer_text": "I'm creating a system to automate data entry from multiple sources, thereby greatly improving the quality of our CRM data.",
+                "answer_label": "Improve CRM data quality, Extract data from emails, Scan business cards, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.562489"
+            },
+            {
+                "answer_text": "The goal is to eliminate manual data entry from business cards, improving CRM data quality and saving significant time.",
+                "answer_label": "Scan business cards, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562496"
+            },
+            {
+                "answer_text": "I'm trying to create a seamless integration between business card scanning and CRM data entry to enhance data accuracy and efficiency.",
+                "answer_label": "Scan business cards, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562503"
+            },
+            {
+                "answer_text": "We need to significantly improve the quality and consistency of our CRM data.",
+                "answer_label": "Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562510"
+            },
+            {
+                "answer_text": "My focus is on developing a streamlined approach to managing trade fair leads, ensuring all crucial information gets correctly input into our CRM.",
+                "answer_label": "Capture trade fair contacts, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562518"
+            },
+            {
+                "answer_text": "We are working to reduce errors and omissions in our CRM by automating data entry from emails and cleaning existing records.",
+                "answer_label": "Extract data from emails, Clean up CRM, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562524"
+            },
+            {
+                "answer_text": "The project aims to improve CRM data quality by automating the process of adding contacts from trade fairs, emails and scanned business cards.",
+                "answer_label": "Improve CRM data quality, Capture trade fair contacts, Extract data from emails, Scan business cards",
+                "timestamp": "2025-01-25T21:31:53.562531"
+            },
+            {
+                "answer_text": "I want to improve the overall efficiency of our contact management system by implementing automation tools.",
+                "answer_label": "Improve CRM data quality, Clean up CRM, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.562540"
+            },
+            {
+                "answer_text": "We're addressing the problem of inconsistent data entry within our CRM system.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.562549"
+            },
+            {
+                "answer_text": "The project's objective is to improve the accuracy of our CRM data by automating data entry from various sources.",
+                "answer_label": "Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562555"
+            },
+            {
+                "answer_text": "I'm building a tool to efficiently handle the large number of business cards collected at trade fairs.",
+                "answer_label": "Scan business cards, Capture trade fair contacts, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562562"
+            },
+            {
+                "answer_text": "Our challenge is to make our CRM data more accurate and reliable.",
+                "answer_label": "Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562569"
+            },
+            {
+                "answer_text": "We aim to reduce manual data entry and improve data quality within our CRM system.",
+                "answer_label": "Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562575"
+            },
+            {
+                "answer_text": "I'm developing a system that combines data from various sources for a more comprehensive CRM.",
+                "answer_label": "Improve CRM data quality, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.562582"
+            },
+            {
+                "answer_text": "The inefficiency of our current contact management system is the main issue we're tackling.",
+                "answer_label": "Clean up CRM, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562589"
+            },
+            {
+                "answer_text": "The project aims to centralize all our contact information into a clean, well-organized CRM.",
+                "answer_label": "Clean up CRM, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562595"
+            },
+            {
+                "answer_text": "I'm tackling the problem of inconsistent data in our CRM, stemming from various data entry methods.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.562602"
+            },
+            {
+                "answer_text": "The goal is to create a more efficient and accurate system for managing customer contacts.",
+                "answer_label": "Improve CRM data quality, Clean up CRM, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.562608"
+            },
+            {
+                "answer_text": "I'm focused on creating a more efficient workflow for managing business cards and integrating the data into our CRM.",
+                "answer_label": "Scan business cards, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562615"
+            },
+            {
+                "answer_text": "The aim is to significantly improve the accuracy and completeness of the data in our CRM system.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.562622"
+            },
+            {
+                "answer_text": "I'm working to consolidate all our contact information from multiple sources into a single, reliable CRM.",
+                "answer_label": "Improve CRM data quality, Clean up CRM, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.562628"
+            },
+            {
+                "answer_text": "We need to improve the data quality of our CRM to make more effective business decisions.",
+                "answer_label": "Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562634"
+            },
+            {
+                "answer_text": "I'm trying to improve the overall accuracy and consistency of our customer data.",
+                "answer_label": "Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562641"
+            },
+            {
+                "answer_text": "My project is focused on reducing manual work associated with data entry.",
+                "answer_label": "Improve CRM data quality, Clean up CRM, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.562648"
+            },
+            {
+                "answer_text": "The challenge is to maintain a high level of data integrity within our CRM.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.562654"
+            },
+            {
+                "answer_text": "I'm working to eliminate manual data entry and improve the accuracy of our contact information.",
+                "answer_label": "Improve CRM data quality, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.562661"
+            },
+            {
+                "answer_text": "The objective is to automate the process of adding contacts to our CRM from various sources.",
+                "answer_label": "Improve CRM data quality, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.562668"
+            },
+            {
+                "answer_text": "I'm creating a more robust and reliable system for managing our customer relationships.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.562676"
+            },
+            {
+                "answer_text": "We're looking to make our CRM more user-friendly and efficient.",
+                "answer_label": "Clean up CRM, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562683"
+            },
+            {
+                "answer_text": "The focus is on making our CRM data more accessible and actionable.",
+                "answer_label": "Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562689"
+            },
+            {
+                "answer_text": "I'm trying to streamline our contact management processes to improve efficiency and accuracy.",
+                "answer_label": "Improve CRM data quality, Clean up CRM, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.562697"
+            },
+            {
+                "answer_text": "The problem is a lack of consistent data entry practices within our organization.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.562703"
+            },
+            {
+                "answer_text": "Our goal is to enhance the overall performance and reliability of our CRM system.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.562710"
+            },
+            {
+                "answer_text": "I'm addressing the challenge of managing large volumes of contact data effectively.",
+                "answer_label": "Improve CRM data quality, Clean up CRM, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.562716"
+            },
+            {
+                "answer_text": "I'm focused on improving the overall quality and usability of our CRM database.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.562723"
+            },
+            {
+                "answer_text": "We need a more efficient way to manage and utilize the data within our CRM.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.562729"
+            },
+            {
+                "answer_text": "I'm aiming to create a more unified and comprehensive view of our customer interactions.",
+                "answer_label": "Improve CRM data quality, Clean up CRM, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.562736"
+            },
+            {
+                "answer_text": "The objective is to simplify and improve the efficiency of our CRM workflow.",
+                "answer_label": "Clean up CRM, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562743"
+            },
+            {
+                "answer_text": "I'm working to improve the accuracy and consistency of our CRM data through automation.",
+                "answer_label": "Improve CRM data quality, Scan business cards, Extract data from emails",
+                "timestamp": "2025-01-25T21:31:53.562889"
+            },
+            {
+                "answer_text": "The issue is the current CRM system\u2019s inability to effectively handle large datasets.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.562907"
+            },
+            {
+                "answer_text": "The goal is to create a more robust and scalable CRM system for our growing business.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.562916"
+            },
+            {
+                "answer_text": "We need to improve data entry procedures to maintain a more reliable CRM.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.562925"
+            },
+            {
+                "answer_text": "I am building a system to automate the process of entering contacts from business cards into our CRM.",
+                "answer_label": "Scan business cards, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562932"
+            },
+            {
+                "answer_text": "The project focuses on enhancing the accuracy and efficiency of our contact management system.",
+                "answer_label": "Improve CRM data quality, Clean up CRM, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.562939"
+            },
+            {
+                "answer_text": "I'm developing a solution to improve the overall effectiveness of our CRM.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.562946"
+            },
+            {
+                "answer_text": "We're working on making our CRM data more easily accessible and analyzable.",
+                "answer_label": "Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562952"
+            },
+            {
+                "answer_text": "I am building a system to improve the accuracy of our contact information by extracting data from emails.",
+                "answer_label": "Extract data from emails, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.562959"
+            },
+            {
+                "answer_text": "The challenge is to effectively consolidate data from multiple sources into our CRM.",
+                "answer_label": "Improve CRM data quality, Clean up CRM, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.562966"
+            },
+            {
+                "answer_text": "I'm developing a solution to improve the consistency and completeness of our CRM data.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.562973"
+            },
+            {
+                "answer_text": "The aim is to reduce the time spent on manual data entry into our CRM.",
+                "answer_label": "Improve CRM data quality, Clean up CRM, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.562981"
+            },
+            {
+                "answer_text": "We are striving to enhance the reliability and efficiency of our CRM.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.562987"
+            },
+            {
+                "answer_text": "My focus is on improving the quality and usability of our CRM.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.562997"
+            },
+            {
+                "answer_text": "I'm working to create a more intuitive and user-friendly CRM system.",
+                "answer_label": "Clean up CRM, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.563005"
+            },
+            {
+                "answer_text": "The problem is the lack of a centralized system for managing customer contacts.",
+                "answer_label": "Improve CRM data quality, Clean up CRM, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.563011"
+            },
+            {
+                "answer_text": "I'm building a solution to address inconsistencies in our CRM data.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.563018"
+            },
+            {
+                "answer_text": "We aim to streamline our CRM processes to improve efficiency and productivity.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.563024"
+            },
+            {
+                "answer_text": "I'm focusing on improving the overall organization and management of our CRM data.",
+                "answer_label": "Clean up CRM, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.563031"
+            },
+            {
+                "answer_text": "The challenge is to create a more accurate and reliable system for tracking customer interactions.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.563037"
+            },
+            {
+                "answer_text": "I'm developing a system to automate the process of extracting contact information from emails.",
+                "answer_label": "Extract data from emails, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.563044"
+            },
+            {
+                "answer_text": "The goal is to create a more comprehensive and effective CRM system.",
+                "answer_label": "Improve CRM data quality, Clean up CRM, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.563050"
+            },
+            {
+                "answer_text": "We need to enhance the functionality and usability of our CRM system.",
+                "answer_label": "Clean up CRM, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.563058"
+            },
+            {
+                "answer_text": "I'm working to improve the overall data quality within our CRM to better support our sales team.",
+                "answer_label": "Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.563064"
+            },
+            {
+                "answer_text": "The problem is the manual and time-consuming process of cleaning up our CRM data.",
+                "answer_label": "Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.563070"
+            },
+            {
+                "answer_text": "I'm trying to create a system to centralize and manage all our contact information.",
+                "answer_label": "Improve CRM data quality, Clean up CRM, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.563078"
+            },
+            {
+                "answer_text": "We're addressing data integrity issues within our current CRM system.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.563085"
+            },
+            {
+                "answer_text": "My focus is on improving the efficiency of our CRM data entry processes.",
+                "answer_label": "Improve CRM data quality, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.563091"
+            },
+            {
+                "answer_text": "The goal is to improve the accuracy and reliability of our customer data.",
+                "answer_label": "Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.563097"
+            },
+            {
+                "answer_text": "I'm building a system to automatically capture and organize contact details from trade fairs.",
+                "answer_label": "Capture trade fair contacts, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.563104"
+            },
+            {
+                "answer_text": "We need to create a more robust and effective system for managing customer relationships.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.563110"
+            },
+            {
+                "answer_text": "I'm developing a solution to improve the accuracy of contact information in our CRM.",
+                "answer_label": "Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.563117"
+            },
+            {
+                "answer_text": "The project aims to improve the overall performance and efficiency of our CRM.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.563124"
+            },
+            {
+                "answer_text": "I'm working to automate the data entry process to save time and improve accuracy.",
+                "answer_label": "Improve CRM data quality, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.563130"
+            },
+            {
+                "answer_text": "We're addressing the issue of duplicate and inaccurate records in our CRM.",
+                "answer_label": "Clean up CRM, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.563136"
+            },
+            {
+                "answer_text": "I'm building a system to improve the overall quality and completeness of our CRM data.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.563143"
+            },
+            {
+                "answer_text": "The goal is to simplify and improve the management of our customer data.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.563149"
+            },
+            {
+                "answer_text": "I'm developing a solution to enhance the data quality and usability of our CRM system.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.563156"
+            },
+            {
+                "answer_text": "We need to improve the efficiency and effectiveness of our CRM system.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.563162"
+            },
+            {
+                "answer_text": "I'm working to make our CRM data more reliable and actionable.",
+                "answer_label": "Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.563169"
+            },
+            {
+                "answer_text": "The problem is the lack of a standardized approach to data entry in our CRM.",
+                "answer_label": "Improve CRM data quality, Clean up CRM",
+                "timestamp": "2025-01-25T21:31:53.563176"
+            },
+            {
+                "answer_text": "I'm developing a system to improve the overall management and organization of our CRM data.",
+                "answer_label": "Clean up CRM, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.563183"
+            },
+            {
+                "answer_text": "We need to improve the accuracy and completeness of our customer contact information.",
+                "answer_label": "Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.563190"
+            },
+            {
+                "answer_text": "I'm working to create a more integrated and comprehensive CRM system.",
+                "answer_label": "Improve CRM data quality, Clean up CRM, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.563196"
+            },
+            {
+                "answer_text": "The goal is to improve the usability and efficiency of our CRM system.",
+                "answer_label": "Clean up CRM, Improve CRM data quality",
+                "timestamp": "2025-01-25T21:31:53.563202"
+            },
+            {
+                "answer_text": "I'm addressing the challenge of inefficient contact management within our organization.",
+                "answer_label": "Improve CRM data quality, Clean up CRM, Scan business cards, Extract data from emails, Capture trade fair contacts",
+                "timestamp": "2025-01-25T21:31:53.563209"
+            }
+        ]
+    },
+    {
+        "question": "What type of contact is it?",
+        "type": "MULTI_SELECT",
+        "answers": [
+            {
+                "answer_text": "It's a follow-up call with a valued existing customer.",
+                "answer_label": "Existing customer",
+                "timestamp": "2025-01-25T21:32:08.239220"
+            },
+            {
+                "answer_text": "This is a new inquiry from a potential customer, also a competitor's client.",
+                "answer_label": "New customer, Prospect, Competitor",
+                "timestamp": "2025-01-25T21:32:08.239272"
+            },
+            {
+                "answer_text": "We're dealing with a press inquiry regarding our latest product launch.",
+                "answer_label": "Press, media",
+                "timestamp": "2025-01-25T21:32:08.239281"
+            },
+            {
+                "answer_text": "It's a routine communication with a key supplier.",
+                "answer_label": "Supplier",
+                "timestamp": "2025-01-25T21:32:08.239289"
+            },
+            {
+                "answer_text": "This is an initial contact with a prospective customer who is also a known competitor.",
+                "answer_label": "New customer, Prospect, Competitor",
+                "timestamp": "2025-01-25T21:32:08.239297"
+            },
+            {
+                "answer_text": "It's a complaint from an existing customer regarding a recent service issue.",
+                "answer_label": "Existing customer",
+                "timestamp": "2025-01-25T21:32:08.239303"
+            },
+            {
+                "answer_text": "The contact is a supplier providing us with a quote for a new project.",
+                "answer_label": "Supplier",
+                "timestamp": "2025-01-25T21:32:08.239311"
+            },
+            {
+                "answer_text": "This is a request for an interview from a journalist.",
+                "answer_label": "Press, media",
+                "timestamp": "2025-01-25T21:32:08.239318"
+            },
+            {
+                "answer_text": "We received a market analysis report from a competitor.",
+                "answer_label": "Competitor",
+                "timestamp": "2025-01-25T21:32:08.239325"
+            },
+            {
+                "answer_text": "This is a sales follow-up with a new lead.",
+                "answer_label": "New customer, Prospect",
+                "timestamp": "2025-01-25T21:32:08.239331"
+            },
+            {
+                "answer_text": "We are in contact with an existing customer seeking additional service.",
+                "answer_label": "Existing customer",
+                "timestamp": "2025-01-25T21:32:08.239338"
+            },
+            {
+                "answer_text": "This is a request for a product demo from a potential client.",
+                "answer_label": "New customer, Prospect",
+                "timestamp": "2025-01-25T21:32:08.239344"
+            },
+            {
+                "answer_text": "It involves a discussion about pricing and delivery schedules with our supplier.",
+                "answer_label": "Supplier",
+                "timestamp": "2025-01-25T21:32:08.239435"
+            },
+            {
+                "answer_text": "This is a query from a reporter about our company's stance on a recent industry event.",
+                "answer_label": "Press, media",
+                "timestamp": "2025-01-25T21:32:08.239454"
+            },
+            {
+                "answer_text": "They are a competitor seeking information on our patent portfolio.",
+                "answer_label": "Competitor",
+                "timestamp": "2025-01-25T21:32:08.239463"
+            },
+            {
+                "answer_text": "It's a routine order from an existing customer.",
+                "answer_label": "Existing customer",
+                "timestamp": "2025-01-25T21:32:08.239471"
+            },
+            {
+                "answer_text": "This is a first contact with a prospective customer, who's also a competitor's employee.",
+                "answer_label": "New customer, Prospect, Competitor",
+                "timestamp": "2025-01-25T21:32:08.239477"
+            },
+            {
+                "answer_text": "It's a negotiation with a supplier about contract terms.",
+                "answer_label": "Supplier",
+                "timestamp": "2025-01-25T21:32:08.239484"
+            },
+            {
+                "answer_text": "This is a media interview concerning our social responsibility initiatives.",
+                "answer_label": "Press, media",
+                "timestamp": "2025-01-25T21:32:08.239490"
+            },
+            {
+                "answer_text": "This contact is from a competitor investigating our market strategies.",
+                "answer_label": "Competitor",
+                "timestamp": "2025-01-25T21:32:08.239508"
+            },
+            {
+                "answer_text": "This is an email from a potential customer expressing interest in our services.",
+                "answer_label": "New customer, Prospect",
+                "timestamp": "2025-01-25T21:32:08.239515"
+            },
+            {
+                "answer_text": "The contact is a long-standing relationship with an existing customer.",
+                "answer_label": "Existing customer",
+                "timestamp": "2025-01-25T21:32:08.239522"
+            },
+            {
+                "answer_text": "This is a request for samples from a potential new customer.",
+                "answer_label": "New customer, Prospect",
+                "timestamp": "2025-01-25T21:32:08.239529"
+            },
+            {
+                "answer_text": "This is a regular shipment notification from our supplier.",
+                "answer_label": "Supplier",
+                "timestamp": "2025-01-25T21:32:08.239537"
+            },
+            {
+                "answer_text": "It's an interview request about a recent news article.",
+                "answer_label": "Press, media",
+                "timestamp": "2025-01-25T21:32:08.239544"
+            },
+            {
+                "answer_text": "They are a competitor analyzing our latest marketing campaign.",
+                "answer_label": "Competitor",
+                "timestamp": "2025-01-25T21:32:08.239551"
+            },
+            {
+                "answer_text": "It's a complaint regarding a product defect from an existing customer.",
+                "answer_label": "Existing customer",
+                "timestamp": "2025-01-25T21:32:08.239558"
+            },
+            {
+                "answer_text": "This is a formal proposal from a potential client.",
+                "answer_label": "New customer, Prospect",
+                "timestamp": "2025-01-25T21:32:08.239566"
+            },
+            {
+                "answer_text": "The contact involves payment arrangements with our supplier.",
+                "answer_label": "Supplier",
+                "timestamp": "2025-01-25T21:32:08.239574"
+            },
+            {
+                "answer_text": "This is a press release distribution to various media outlets.",
+                "answer_label": "Press, media",
+                "timestamp": "2025-01-25T21:32:08.239584"
+            },
+            {
+                "answer_text": "It's a competitive intelligence gathering effort.",
+                "answer_label": "Competitor",
+                "timestamp": "2025-01-25T21:32:08.239590"
+            },
+            {
+                "answer_text": "This is a sales inquiry from a new potential customer.",
+                "answer_label": "New customer, Prospect",
+                "timestamp": "2025-01-25T21:32:08.239597"
+            },
+            {
+                "answer_text": "This is a service request from a loyal existing customer.",
+                "answer_label": "Existing customer",
+                "timestamp": "2025-01-25T21:32:08.239604"
+            },
+            {
+                "answer_text": "It's a new partnership proposal from a potential supplier.",
+                "answer_label": "Supplier",
+                "timestamp": "2025-01-25T21:32:08.239611"
+            },
+            {
+                "answer_text": "We received a press release from a related industry.",
+                "answer_label": "Press, media",
+                "timestamp": "2025-01-25T21:32:08.239618"
+            },
+            {
+                "answer_text": "They are a competitor offering a joint venture.",
+                "answer_label": "Competitor",
+                "timestamp": "2025-01-25T21:32:08.239626"
+            },
+            {
+                "answer_text": "This is a referral from an existing customer.",
+                "answer_label": "Existing customer, New customer, Prospect",
+                "timestamp": "2025-01-25T21:32:08.239632"
+            },
+            {
+                "answer_text": "This is a project update from a supplier.",
+                "answer_label": "Supplier",
+                "timestamp": "2025-01-25T21:32:08.239643"
+            },
+            {
+                "answer_text": "It\u2019s a media interview about sustainability practices.",
+                "answer_label": "Press, media",
+                "timestamp": "2025-01-25T21:32:08.239652"
+            },
+            {
+                "answer_text": "This is strategic competitive analysis.",
+                "answer_label": "Competitor",
+                "timestamp": "2025-01-25T21:32:08.239659"
+            },
+            {
+                "answer_text": "It's a query from a new potential customer.",
+                "answer_label": "New customer, Prospect",
+                "timestamp": "2025-01-25T21:32:08.239665"
+            },
+            {
+                "answer_text": "This is an ongoing support interaction with an existing customer.",
+                "answer_label": "Existing customer",
+                "timestamp": "2025-01-25T21:32:08.239687"
+            },
+            {
+                "answer_text": "This is an order from a new customer.",
+                "answer_label": "New customer, Prospect",
+                "timestamp": "2025-01-25T21:32:08.239694"
+            },
+            {
+                "answer_text": "It\u2019s feedback from a supplier on product performance.",
+                "answer_label": "Supplier",
+                "timestamp": "2025-01-25T21:32:08.239701"
+            },
+            {
+                "answer_text": "This is an interview with an industry magazine.",
+                "answer_label": "Press, media",
+                "timestamp": "2025-01-25T21:32:08.239708"
+            },
+            {
+                "answer_text": "They\u2019re a competitor engaging in patent litigation.",
+                "answer_label": "Competitor",
+                "timestamp": "2025-01-25T21:32:08.239714"
+            },
+            {
+                "answer_text": "It\u2019s a service issue escalated by an existing customer.",
+                "answer_label": "Existing customer",
+                "timestamp": "2025-01-25T21:32:08.239753"
+            },
+            {
+                "answer_text": "This is a contract negotiation with a potential new client.",
+                "answer_label": "New customer, Prospect",
+                "timestamp": "2025-01-25T21:32:08.239768"
+            },
+            {
+                "answer_text": "The contact is an invoice from a supplier.",
+                "answer_label": "Supplier",
+                "timestamp": "2025-01-25T21:32:08.239776"
+            },
+            {
+                "answer_text": "It's a story pitch from a journalist.",
+                "answer_label": "Press, media",
+                "timestamp": "2025-01-25T21:32:08.239784"
+            },
+            {
+                "answer_text": "They are a competitor engaging in a price war.",
+                "answer_label": "Competitor",
+                "timestamp": "2025-01-25T21:32:08.239791"
+            },
+            {
+                "answer_text": "This is a question about our return policy from a new customer.",
+                "answer_label": "New customer, Prospect",
+                "timestamp": "2025-01-25T21:32:08.239798"
+            },
+            {
+                "answer_text": "It's a request for a maintenance contract from an existing customer.",
+                "answer_label": "Existing customer",
+                "timestamp": "2025-01-25T21:32:08.239805"
+            },
+            {
+                "answer_text": "This is a supply chain disruption notification from a supplier.",
+                "answer_label": "Supplier",
+                "timestamp": "2025-01-25T21:32:08.239836"
+            },
+            {
+                "answer_text": "This is an invitation to comment on industry trends.",
+                "answer_label": "Press, media",
+                "timestamp": "2025-01-25T21:32:08.239853"
+            },
+            {
+                "answer_text": "They are a competitor launching a similar product.",
+                "answer_label": "Competitor",
+                "timestamp": "2025-01-25T21:32:08.239862"
+            },
+            {
+                "answer_text": "It\u2019s a complaint about our customer service.",
+                "answer_label": "Existing customer",
+                "timestamp": "2025-01-25T21:32:08.239870"
+            },
+            {
+                "answer_text": "This is a large-scale order from a new client.",
+                "answer_label": "New customer, Prospect",
+                "timestamp": "2025-01-25T21:32:08.239878"
+            },
+            {
+                "answer_text": "It's payment terms discussion with our supplier.",
+                "answer_label": "Supplier",
+                "timestamp": "2025-01-25T21:32:08.239886"
+            },
+            {
+                "answer_text": "It's a press conference addressing recent controversies.",
+                "answer_label": "Press, media",
+                "timestamp": "2025-01-25T21:32:08.239894"
+            },
+            {
+                "answer_text": "They are a competitor attempting to poach employees.",
+                "answer_label": "Competitor",
+                "timestamp": "2025-01-25T21:32:08.239903"
+            },
+            {
+                "answer_text": "This is a request for a quote from a potential client.",
+                "answer_label": "New customer, Prospect",
+                "timestamp": "2025-01-25T21:32:08.239911"
+            },
+            {
+                "answer_text": "It's an urgent technical support request from a key customer.",
+                "answer_label": "Existing customer",
+                "timestamp": "2025-01-25T21:32:08.239918"
+            },
+            {
+                "answer_text": "It's a delivery delay from our supplier.",
+                "answer_label": "Supplier",
+                "timestamp": "2025-01-25T21:32:08.239927"
+            },
+            {
+                "answer_text": "This is a public relations crisis.",
+                "answer_label": "Press, media",
+                "timestamp": "2025-01-25T21:32:08.239935"
+            },
+            {
+                "answer_text": "It's an aggressive marketing campaign from a competitor.",
+                "answer_label": "Competitor",
+                "timestamp": "2025-01-25T21:32:08.239943"
+            },
+            {
+                "answer_text": "This is a potential collaboration opportunity with a new customer.",
+                "answer_label": "New customer, Prospect, Existing customer",
+                "timestamp": "2025-01-25T21:32:08.239951"
+            },
+            {
+                "answer_text": "It's a new supply contract negotiation.",
+                "answer_label": "Supplier, Existing customer",
+                "timestamp": "2025-01-25T21:32:08.239959"
+            },
+            {
+                "answer_text": "It's a press release announcing a new partnership.",
+                "answer_label": "Press, media, Existing customer",
+                "timestamp": "2025-01-25T21:32:08.239966"
+            },
+            {
+                "answer_text": "It's an ongoing legal battle with a competitor.",
+                "answer_label": "Competitor, Existing customer",
+                "timestamp": "2025-01-25T21:32:08.239973"
+            },
+            {
+                "answer_text": "This is a referral from a loyal existing customer to a new prospect.",
+                "answer_label": "Existing customer, New customer, Prospect",
+                "timestamp": "2025-01-25T21:32:08.239982"
+            },
+            {
+                "answer_text": "It's a complaint from an existing customer and a potential new competitor.",
+                "answer_label": "Existing customer, Competitor",
+                "timestamp": "2025-01-25T21:32:08.239990"
+            },
+            {
+                "answer_text": "It\u2019s a joint venture negotiation with a new customer and a supplier.",
+                "answer_label": "New customer, Prospect, Supplier",
+                "timestamp": "2025-01-25T21:32:08.239997"
+            },
+            {
+                "answer_text": "It's an exclusive interview with a major media outlet.",
+                "answer_label": "Press, media, New customer, Prospect",
+                "timestamp": "2025-01-25T21:32:08.240005"
+            },
+            {
+                "answer_text": "It\u2019s a merger attempt with a direct competitor and a new supplier.",
+                "answer_label": "Competitor, Supplier",
+                "timestamp": "2025-01-25T21:32:08.240012"
+            },
+            {
+                "answer_text": "This is a strategic partnership proposal from a key supplier and a new customer.",
+                "answer_label": "Supplier, New customer, Prospect",
+                "timestamp": "2025-01-25T21:32:08.240019"
+            },
+            {
+                "answer_text": "It's a new customer who is also a media influencer.",
+                "answer_label": "New customer, Prospect, Press, media",
+                "timestamp": "2025-01-25T21:32:08.240027"
+            },
+            {
+                "answer_text": "It's a supplier who is also a potential investor.",
+                "answer_label": "Supplier, New customer, Prospect",
+                "timestamp": "2025-01-25T21:32:08.240034"
+            },
+            {
+                "answer_text": "This is a competitor who\u2019s also a major media outlet.",
+                "answer_label": "Competitor, Press, media",
+                "timestamp": "2025-01-25T21:32:08.240041"
+            },
+            {
+                "answer_text": "It\u2019s a new customer that also supplies us.",
+                "answer_label": "New customer, Prospect, Supplier",
+                "timestamp": "2025-01-25T21:32:08.240048"
+            },
+            {
+                "answer_text": "This is a customer who is also a media outlet.",
+                "answer_label": "Existing customer, Press, media",
+                "timestamp": "2025-01-25T21:32:08.240056"
+            },
+            {
+                "answer_text": "This is a competitor who is also a supplier.",
+                "answer_label": "Competitor, Supplier",
+                "timestamp": "2025-01-25T21:32:08.240063"
+            },
+            {
+                "answer_text": "This is a new customer who is also a competitor.",
+                "answer_label": "New customer, Prospect, Competitor",
+                "timestamp": "2025-01-25T21:32:08.240071"
+            },
+            {
+                "answer_text": "This is an existing customer, a supplier, a media outlet and a competitor.",
+                "answer_label": "Existing customer, Supplier, Press, media, Competitor",
+                "timestamp": "2025-01-25T21:32:08.240078"
+            },
+            {
+                "answer_text": "This is a new customer, a supplier, and a media outlet.",
+                "answer_label": "New customer, Prospect, Supplier, Press, media",
+                "timestamp": "2025-01-25T21:32:08.240085"
+            },
+            {
+                "answer_text": "This is an existing customer, a supplier and a competitor.",
+                "answer_label": "Existing customer, Supplier, Competitor",
+                "timestamp": "2025-01-25T21:32:08.240093"
+            },
+            {
+                "answer_text": "This is a new customer, a press outlet, and a competitor.",
+                "answer_label": "New customer, Prospect, Press, media, Competitor",
+                "timestamp": "2025-01-25T21:32:08.240100"
+            },
+            {
+                "answer_text": "This is an existing customer, a press outlet and a competitor.",
+                "answer_label": "Existing customer, Press, media, Competitor",
+                "timestamp": "2025-01-25T21:32:08.240107"
+            },
+            {
+                "answer_text": "This is an existing customer, a supplier and a press outlet.",
+                "answer_label": "Existing customer, Supplier, Press, media",
+                "timestamp": "2025-01-25T21:32:08.240115"
+            },
+            {
+                "answer_text": "It\u2019s a new customer who also represents the press.",
+                "answer_label": "New customer, Prospect, Press, media",
+                "timestamp": "2025-01-25T21:32:08.240122"
+            },
+            {
+                "answer_text": "It\u2019s a supplier who is also in the press.",
+                "answer_label": "Supplier, Press, media",
+                "timestamp": "2025-01-25T21:32:08.240129"
+            },
+            {
+                "answer_text": "It\u2019s a competitor who is also in the press.",
+                "answer_label": "Competitor, Press, media",
+                "timestamp": "2025-01-25T21:32:08.240136"
+            },
+            {
+                "answer_text": "It's a new customer, a supplier, and a competitor.",
+                "answer_label": "New customer, Prospect, Supplier, Competitor",
+                "timestamp": "2025-01-25T21:32:08.240143"
+            },
+            {
+                "answer_text": "This is a contact with an existing customer.",
+                "answer_label": "Existing customer",
+                "timestamp": "2025-01-25T21:32:08.240150"
+            },
+            {
+                "answer_text": "This is a contact with a supplier.",
+                "answer_label": "Supplier",
+                "timestamp": "2025-01-25T21:32:08.240158"
+            },
+            {
+                "answer_text": "This is a contact with a new customer.",
+                "answer_label": "New customer, Prospect",
+                "timestamp": "2025-01-25T21:32:08.240165"
+            },
+            {
+                "answer_text": "This is a contact with the press.",
+                "answer_label": "Press, media",
+                "timestamp": "2025-01-25T21:32:08.240173"
+            },
+            {
+                "answer_text": "This is a contact with a competitor.",
+                "answer_label": "Competitor",
+                "timestamp": "2025-01-25T21:32:08.240180"
+            }
+        ]
+    },
+    {
+        "question": "What are you interested in?",
+        "type": "MULTI_SELECT",
+        "answers": [
+            {
+                "answer_text": "I'm fascinated by the potential of additive manufacturing to revolutionize design and production processes.",
+                "answer_label": "100",
+                "timestamp": "2025-01-25T21:32:25.139088"
+            },
+            {
+                "answer_text": "My current focus is on improving efficiency and precision in automation systems.",
+                "answer_label": "200",
+                "timestamp": "2025-01-25T21:32:25.139146"
+            },
+            {
+                "answer_text": "I'm deeply interested in the latest advancements in advanced manufacturing techniques.",
+                "answer_label": "300",
+                "timestamp": "2025-01-25T21:32:25.139158"
+            },
+            {
+                "answer_text": "I'm exploring the intricacies of assembly systems and their optimization for various industries.",
+                "answer_label": "234",
+                "timestamp": "2025-01-25T21:32:25.139168"
+            },
+            {
+                "answer_text": "I find the challenges of joining large components together particularly engaging.",
+                "answer_label": "256",
+                "timestamp": "2025-01-25T21:32:25.139176"
+            },
+            {
+                "answer_text": "I'm captivated by the intersection of additive manufacturing and automation in streamlining production.",
+                "answer_label": "100, 200",
+                "timestamp": "2025-01-25T21:32:25.139251"
+            },
+            {
+                "answer_text": "I'm researching the impact of advanced manufacturing on automation strategies.",
+                "answer_label": "300, 200",
+                "timestamp": "2025-01-25T21:32:25.139274"
+            },
+            {
+                "answer_text": "My work involves optimizing assembly systems through advanced manufacturing principles.",
+                "answer_label": "234, 300",
+                "timestamp": "2025-01-25T21:32:25.139375"
+            },
+            {
+                "answer_text": "I'm developing innovative joining systems for large components using advanced manufacturing methods.",
+                "answer_label": "256, 300",
+                "timestamp": "2025-01-25T21:32:25.139387"
+            },
+            {
+                "answer_text": "I'm investigating how automation can improve additive manufacturing processes.",
+                "answer_label": "100, 200",
+                "timestamp": "2025-01-25T21:32:25.139396"
+            },
+            {
+                "answer_text": "I'm exploring the role of advanced manufacturing in improving assembly system efficiency.",
+                "answer_label": "300, 234",
+                "timestamp": "2025-01-25T21:32:25.139404"
+            },
+            {
+                "answer_text": "My research focuses on the application of advanced manufacturing to large-component joining.",
+                "answer_label": "300, 256",
+                "timestamp": "2025-01-25T21:32:25.139411"
+            },
+            {
+                "answer_text": "I'm interested in the synergy between automation and assembly systems in manufacturing.",
+                "answer_label": "200, 234",
+                "timestamp": "2025-01-25T21:32:25.139419"
+            },
+            {
+                "answer_text": "I'm studying the use of automation in developing robust joining systems for large components.",
+                "answer_label": "200, 256",
+                "timestamp": "2025-01-25T21:32:25.139427"
+            },
+            {
+                "answer_text": "I'm passionate about additive manufacturing, automation, and their combined impact on manufacturing.",
+                "answer_label": "100, 200, 300",
+                "timestamp": "2025-01-25T21:32:25.139434"
+            },
+            {
+                "answer_text": "My current project explores the intersection of advanced manufacturing, assembly systems, and automation.",
+                "answer_label": "300, 234, 200",
+                "timestamp": "2025-01-25T21:32:25.139442"
+            },
+            {
+                "answer_text": "I'm working on integrating advanced manufacturing techniques into large-component joining processes using automation.",
+                "answer_label": "300, 256, 200",
+                "timestamp": "2025-01-25T21:32:25.139492"
+            },
+            {
+                "answer_text": "I'm developing new additive manufacturing techniques for optimizing assembly systems.",
+                "answer_label": "100, 234",
+                "timestamp": "2025-01-25T21:32:25.139515"
+            },
+            {
+                "answer_text": "My research focuses on the application of additive manufacturing to large-component joining challenges.",
+                "answer_label": "100, 256",
+                "timestamp": "2025-01-25T21:32:25.139525"
+            },
+            {
+                "answer_text": "I'm interested in how automation can improve the efficiency of additive manufacturing processes for large-component assembly.",
+                "answer_label": "100, 200, 234, 256",
+                "timestamp": "2025-01-25T21:32:25.139533"
+            },
+            {
+                "answer_text": "I am fascinated by the possibilities of improving manufacturing processes.",
+                "answer_label": "300",
+                "timestamp": "2025-01-25T21:32:25.139540"
+            },
+            {
+                "answer_text": "I'm excited about the future of automation in industrial settings.",
+                "answer_label": "200",
+                "timestamp": "2025-01-25T21:32:25.139547"
+            },
+            {
+                "answer_text": "I am currently working on a project related to assembly line efficiency.",
+                "answer_label": "234",
+                "timestamp": "2025-01-25T21:32:25.139555"
+            },
+            {
+                "answer_text": "My research focuses on joining techniques for large structures.",
+                "answer_label": "256",
+                "timestamp": "2025-01-25T21:32:25.139562"
+            },
+            {
+                "answer_text": "I'm keen on exploring the potential of 3D printing in various industries.",
+                "answer_label": "100",
+                "timestamp": "2025-01-25T21:32:25.139569"
+            },
+            {
+                "answer_text": "Automation and robotics are my areas of expertise.",
+                "answer_label": "200",
+                "timestamp": "2025-01-25T21:32:25.139576"
+            },
+            {
+                "answer_text": "The possibilities of smart manufacturing fascinate me.",
+                "answer_label": "300",
+                "timestamp": "2025-01-25T21:32:25.139584"
+            },
+            {
+                "answer_text": "I find assembly systems optimization a particularly challenging yet rewarding field.",
+                "answer_label": "234",
+                "timestamp": "2025-01-25T21:32:25.139591"
+            },
+            {
+                "answer_text": "My work involves the design and implementation of robust joining processes for large components.",
+                "answer_label": "256",
+                "timestamp": "2025-01-25T21:32:25.139597"
+            },
+            {
+                "answer_text": "I am looking to explore the relationship between automation and additive manufacturing.",
+                "answer_label": "100, 200",
+                "timestamp": "2025-01-25T21:32:25.139604"
+            },
+            {
+                "answer_text": "My work integrates advanced manufacturing and automation technologies.",
+                "answer_label": "200, 300",
+                "timestamp": "2025-01-25T21:32:25.139611"
+            },
+            {
+                "answer_text": "I am particularly interested in the applications of automation in assembly systems.",
+                "answer_label": "200, 234",
+                "timestamp": "2025-01-25T21:32:25.139618"
+            },
+            {
+                "answer_text": "I am studying innovative joining systems for large components using automation.",
+                "answer_label": "200, 256",
+                "timestamp": "2025-01-25T21:32:25.139625"
+            },
+            {
+                "answer_text": "I'm researching the intersection of additive manufacturing and advanced manufacturing techniques.",
+                "answer_label": "100, 300",
+                "timestamp": "2025-01-25T21:32:25.139632"
+            },
+            {
+                "answer_text": "My current work focuses on the improvement of assembly systems through additive manufacturing techniques.",
+                "answer_label": "100, 234",
+                "timestamp": "2025-01-25T21:32:25.139639"
+            },
+            {
+                "answer_text": "I'm investigating the application of additive manufacturing to large component joining.",
+                "answer_label": "100, 256",
+                "timestamp": "2025-01-25T21:32:25.139646"
+            },
+            {
+                "answer_text": "I'm interested in the synergy between advanced manufacturing and assembly systems.",
+                "answer_label": "300, 234",
+                "timestamp": "2025-01-25T21:32:25.139652"
+            },
+            {
+                "answer_text": "My research explores the possibilities of advanced manufacturing in large component joining.",
+                "answer_label": "300, 256",
+                "timestamp": "2025-01-25T21:32:25.139659"
+            },
+            {
+                "answer_text": "I'm focusing on the integration of assembly systems and advanced manufacturing technologies.",
+                "answer_label": "234, 300",
+                "timestamp": "2025-01-25T21:32:25.139666"
+            },
+            {
+                "answer_text": "I'm studying the application of advanced manufacturing techniques for the design of joining systems for large components.",
+                "answer_label": "256, 300",
+                "timestamp": "2025-01-25T21:32:25.139672"
+            },
+            {
+                "answer_text": "I'm curious about the potential of additive manufacturing, automation, and advanced manufacturing.",
+                "answer_label": "100, 200, 300",
+                "timestamp": "2025-01-25T21:32:25.139679"
+            },
+            {
+                "answer_text": "My research explores the intersection of additive manufacturing, automation, and assembly systems.",
+                "answer_label": "100, 200, 234",
+                "timestamp": "2025-01-25T21:32:25.139686"
+            },
+            {
+                "answer_text": "I'm working on integrating additive manufacturing, automation, and advanced manufacturing into large-component joining.",
+                "answer_label": "100, 200, 256, 300",
+                "timestamp": "2025-01-25T21:32:25.139693"
+            },
+            {
+                "answer_text": "I like to stay updated with the latest advancements in industrial automation.",
+                "answer_label": "200",
+                "timestamp": "2025-01-25T21:32:25.139700"
+            },
+            {
+                "answer_text": "I'm interested in the social implications of automation in manufacturing.",
+                "answer_label": "200",
+                "timestamp": "2025-01-25T21:32:25.139707"
+            },
+            {
+                "answer_text": "I'm interested in the use of collaborative robots (cobots) in manufacturing.",
+                "answer_label": "200",
+                "timestamp": "2025-01-25T21:32:25.139714"
+            },
+            {
+                "answer_text": "I'm interested in the development of smart factories.",
+                "answer_label": "200, 300",
+                "timestamp": "2025-01-25T21:32:25.139721"
+            },
+            {
+                "answer_text": "I'm interested in the application of Industry 4.0 technologies in manufacturing.",
+                "answer_label": "200, 300",
+                "timestamp": "2025-01-25T21:32:25.139729"
+            },
+            {
+                "answer_text": "I'm interested in the use of digital twins in manufacturing.",
+                "answer_label": "300",
+                "timestamp": "2025-01-25T21:32:25.139736"
+            },
+            {
+                "answer_text": "I'm interested in the use of predictive maintenance in manufacturing.",
+                "answer_label": "200, 300",
+                "timestamp": "2025-01-25T21:32:25.139745"
+            },
+            {
+                "answer_text": "I'm interested in the use of augmented reality for training manufacturing workers.",
+                "answer_label": "300",
+                "timestamp": "2025-01-25T21:32:25.139753"
+            },
+            {
+                "answer_text": "I'm interested in the development of sustainable manufacturing processes.",
+                "answer_label": "300",
+                "timestamp": "2025-01-25T21:32:25.139761"
+            },
+            {
+                "answer_text": "I'm interested in the use of artificial intelligence for quality control in manufacturing.",
+                "answer_label": "200, 300",
+                "timestamp": "2025-01-25T21:32:25.139768"
+            },
+            {
+                "answer_text": "I'm interested in the application of machine learning in manufacturing.",
+                "answer_label": "200, 300",
+                "timestamp": "2025-01-25T21:32:25.139775"
+            },
+            {
+                "answer_text": "I'm interested in the use of big data analytics in manufacturing.",
+                "answer_label": "300",
+                "timestamp": "2025-01-25T21:32:25.139781"
+            },
+            {
+                "answer_text": "I'm interested in the development of new manufacturing processes for aerospace components.",
+                "answer_label": "300",
+                "timestamp": "2025-01-25T21:32:25.139788"
+            },
+            {
+                "answer_text": "I'm interested in the development of new manufacturing processes for medical devices.",
+                "answer_label": "300",
+                "timestamp": "2025-01-25T21:32:25.139794"
+            },
+            {
+                "answer_text": "I'm interested in the development of new manufacturing processes for automotive components.",
+                "answer_label": "300",
+                "timestamp": "2025-01-25T21:32:25.139803"
+            },
+            {
+                "answer_text": "I'm interested in the development of new manufacturing processes for consumer goods.",
+                "answer_label": "300",
+                "timestamp": "2025-01-25T21:32:25.139811"
+            },
+            {
+                "answer_text": "I'm interested in the challenges and opportunities of additive manufacturing in the aerospace industry.",
+                "answer_label": "100, 300",
+                "timestamp": "2025-01-25T21:32:25.139819"
+            },
+            {
+                "answer_text": "I'm interested in the use of robotics in assembly systems.",
+                "answer_label": "200, 234",
+                "timestamp": "2025-01-25T21:32:25.139826"
+            },
+            {
+                "answer_text": "I'm interested in the application of automation to improve the efficiency of joining systems.",
+                "answer_label": "200, 256",
+                "timestamp": "2025-01-25T21:32:25.139833"
+            },
+            {
+                "answer_text": "I'm interested in the integration of advanced manufacturing technologies into existing manufacturing systems.",
+                "answer_label": "300",
+                "timestamp": "2025-01-25T21:32:25.139839"
+            },
+            {
+                "answer_text": "I'm interested in the economic benefits of implementing advanced manufacturing technologies.",
+                "answer_label": "300",
+                "timestamp": "2025-01-25T21:32:25.139846"
+            },
+            {
+                "answer_text": "I'm interested in the social impacts of implementing advanced manufacturing technologies.",
+                "answer_label": "300",
+                "timestamp": "2025-01-25T21:32:25.139853"
+            }
+        ]
+    },
+    {
+        "question": "When would you like a follow-up?",
+        "type": "MULTI_SELECT",
+        "answers": [
+            {
+                "answer_text": "A follow-up in a week would be ideal.",
+                "answer_label": "1 week",
+                "timestamp": "2025-01-25T21:32:38.709062"
+            },
+            {
+                "answer_text": "I'd appreciate a follow-up in two weeks.",
+                "answer_label": "2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709121"
+            },
+            {
+                "answer_text": "Three weeks from now for a follow-up would work perfectly.",
+                "answer_label": "3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709130"
+            },
+            {
+                "answer_text": "Please follow up in one and two weeks.",
+                "answer_label": "1 week, 2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709135"
+            },
+            {
+                "answer_text": "A follow-up in one and three weeks would be best.",
+                "answer_label": "1 week, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709141"
+            },
+            {
+                "answer_text": "I'd prefer follow-ups in two and three weeks.",
+                "answer_label": "2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709147"
+            },
+            {
+                "answer_text": "Let's schedule follow-ups in one, two, and three weeks.",
+                "answer_label": "1 week, 2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709152"
+            },
+            {
+                "answer_text": "A week from now is fine for a follow-up.",
+                "answer_label": "1 week",
+                "timestamp": "2025-01-25T21:32:38.709159"
+            },
+            {
+                "answer_text": "Two weeks is my preferred time for a follow-up.",
+                "answer_label": "2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709164"
+            },
+            {
+                "answer_text": "Three weeks would be a good time for a follow-up.",
+                "answer_label": "3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709170"
+            },
+            {
+                "answer_text": "I'd like a follow up in one week and again in two weeks.",
+                "answer_label": "1 week, 2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709176"
+            },
+            {
+                "answer_text": "A follow up in one and three weeks will be helpful.",
+                "answer_label": "1 week, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709183"
+            },
+            {
+                "answer_text": "Follow up in two weeks and again in three weeks, please.",
+                "answer_label": "2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709192"
+            },
+            {
+                "answer_text": "I need a follow up in one, two and three weeks.",
+                "answer_label": "1 week, 2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709201"
+            },
+            {
+                "answer_text": "Contact me again in one week.",
+                "answer_label": "1 week",
+                "timestamp": "2025-01-25T21:32:38.709209"
+            },
+            {
+                "answer_text": "Get back to me in two weeks time.",
+                "answer_label": "2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709216"
+            },
+            {
+                "answer_text": "I'll need a check-in in three weeks.",
+                "answer_label": "3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709221"
+            },
+            {
+                "answer_text": "Please follow up with me in one and two weeks' time.",
+                "answer_label": "1 week, 2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709227"
+            },
+            {
+                "answer_text": "One and three weeks would be great for a follow-up.",
+                "answer_label": "1 week, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709232"
+            },
+            {
+                "answer_text": "Two and three weeks from now works for a follow-up.",
+                "answer_label": "2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709238"
+            },
+            {
+                "answer_text": "I'd appreciate follow ups at one, two and three weeks.",
+                "answer_label": "1 week, 2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709243"
+            },
+            {
+                "answer_text": "A follow-up next week would be suitable.",
+                "answer_label": "1 week",
+                "timestamp": "2025-01-25T21:32:38.709249"
+            },
+            {
+                "answer_text": "In a fortnight's time for a follow-up.",
+                "answer_label": "2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709255"
+            },
+            {
+                "answer_text": "Three weeks from today is fine.",
+                "answer_label": "3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709260"
+            },
+            {
+                "answer_text": "I'd like a follow-up at the end of next week and in two weeks.",
+                "answer_label": "1 week, 2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709266"
+            },
+            {
+                "answer_text": "A week from now and three weeks later is good.",
+                "answer_label": "1 week, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709271"
+            },
+            {
+                "answer_text": "In two and three weeks time for a follow-up please.",
+                "answer_label": "2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709277"
+            },
+            {
+                "answer_text": "One, two, and three weeks for follow ups would be excellent.",
+                "answer_label": "1 week, 2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709283"
+            },
+            {
+                "answer_text": "Let's do a follow-up next week.",
+                "answer_label": "1 week",
+                "timestamp": "2025-01-25T21:32:38.709288"
+            },
+            {
+                "answer_text": "A follow-up in two weeks' time would be perfect.",
+                "answer_label": "2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709293"
+            },
+            {
+                "answer_text": "I'm available for a follow-up in three weeks.",
+                "answer_label": "3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709299"
+            },
+            {
+                "answer_text": "A follow-up in one week and then again in two weeks would be ideal.",
+                "answer_label": "1 week, 2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709304"
+            },
+            {
+                "answer_text": "I would appreciate a follow up in one week and three weeks.",
+                "answer_label": "1 week, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709311"
+            },
+            {
+                "answer_text": "Please follow up in two weeks and three weeks time.",
+                "answer_label": "2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709318"
+            },
+            {
+                "answer_text": "I require a follow-up in one, two, and three weeks.",
+                "answer_label": "1 week, 2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709324"
+            },
+            {
+                "answer_text": "Any time next week for a follow-up.",
+                "answer_label": "1 week",
+                "timestamp": "2025-01-25T21:32:38.709329"
+            },
+            {
+                "answer_text": "In approximately two weeks' time.",
+                "answer_label": "2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709334"
+            },
+            {
+                "answer_text": "Around three weeks time would be helpful.",
+                "answer_label": "3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709339"
+            },
+            {
+                "answer_text": "One week and two weeks for follow ups please.",
+                "answer_label": "1 week, 2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709345"
+            },
+            {
+                "answer_text": "One week and three weeks would suffice.",
+                "answer_label": "1 week, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709349"
+            },
+            {
+                "answer_text": "Two weeks and three weeks please.",
+                "answer_label": "2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709355"
+            },
+            {
+                "answer_text": "One, two and three weeks for follow up would be great.",
+                "answer_label": "1 week, 2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709360"
+            },
+            {
+                "answer_text": "I prefer a follow-up next week.",
+                "answer_label": "1 week",
+                "timestamp": "2025-01-25T21:32:38.709553"
+            },
+            {
+                "answer_text": "Two weeks from now is best.",
+                "answer_label": "2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709572"
+            },
+            {
+                "answer_text": "Three weeks is ideal for a follow-up.",
+                "answer_label": "3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709579"
+            },
+            {
+                "answer_text": "I need a follow-up in one week and two weeks.",
+                "answer_label": "1 week, 2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709585"
+            },
+            {
+                "answer_text": "One and three weeks for a follow-up please.",
+                "answer_label": "1 week, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709590"
+            },
+            {
+                "answer_text": "Two weeks and then three weeks.",
+                "answer_label": "2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709596"
+            },
+            {
+                "answer_text": "I'd like to schedule follow-ups for one, two and three weeks.",
+                "answer_label": "1 week, 2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709601"
+            },
+            {
+                "answer_text": "A follow up within a week would be helpful.",
+                "answer_label": "1 week",
+                "timestamp": "2025-01-25T21:32:38.709606"
+            },
+            {
+                "answer_text": "A follow up within two weeks is fine.",
+                "answer_label": "2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709611"
+            },
+            {
+                "answer_text": "I'm looking for a follow-up in around three weeks.",
+                "answer_label": "3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709616"
+            },
+            {
+                "answer_text": "Follow up in one week and two weeks.",
+                "answer_label": "1 week, 2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709622"
+            },
+            {
+                "answer_text": "One week and three weeks for a follow-up.",
+                "answer_label": "1 week, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709627"
+            },
+            {
+                "answer_text": "Two and three weeks would be suitable for a follow-up.",
+                "answer_label": "2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709633"
+            },
+            {
+                "answer_text": "One, two and three weeks for follow ups.",
+                "answer_label": "1 week, 2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709638"
+            },
+            {
+                "answer_text": "Whenever is convenient next week.",
+                "answer_label": "1 week",
+                "timestamp": "2025-01-25T21:32:38.709644"
+            },
+            {
+                "answer_text": "Sometime in the next two weeks.",
+                "answer_label": "2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709649"
+            },
+            {
+                "answer_text": "In about three weeks would be good.",
+                "answer_label": "3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709655"
+            },
+            {
+                "answer_text": "A follow-up next week, and again in two weeks.",
+                "answer_label": "1 week, 2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709661"
+            },
+            {
+                "answer_text": "Next week and in three weeks please.",
+                "answer_label": "1 week, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709666"
+            },
+            {
+                "answer_text": "In two weeks and then three weeks.",
+                "answer_label": "2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709672"
+            },
+            {
+                "answer_text": "I need follow ups in one, two, and three weeks time.",
+                "answer_label": "1 week, 2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709677"
+            },
+            {
+                "answer_text": "Please contact me next week.",
+                "answer_label": "1 week",
+                "timestamp": "2025-01-25T21:32:38.709682"
+            },
+            {
+                "answer_text": "Contact me again in two weeks.",
+                "answer_label": "2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709687"
+            },
+            {
+                "answer_text": "Give me a call in three weeks.",
+                "answer_label": "3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709692"
+            },
+            {
+                "answer_text": "Follow up in one week and then in two.",
+                "answer_label": "1 week, 2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709698"
+            },
+            {
+                "answer_text": "One week and then three weeks please.",
+                "answer_label": "1 week, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709704"
+            },
+            {
+                "answer_text": "Two weeks and three weeks for the follow up.",
+                "answer_label": "2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709709"
+            },
+            {
+                "answer_text": "One, two and three weeks for a follow up is ideal.",
+                "answer_label": "1 week, 2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709715"
+            },
+            {
+                "answer_text": "Follow up in a week.",
+                "answer_label": "1 week",
+                "timestamp": "2025-01-25T21:32:38.709720"
+            },
+            {
+                "answer_text": "Follow up in two weeks.",
+                "answer_label": "2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709726"
+            },
+            {
+                "answer_text": "Follow up in three weeks.",
+                "answer_label": "3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709731"
+            },
+            {
+                "answer_text": "Follow up in one and two weeks.",
+                "answer_label": "1 week, 2 weeks",
+                "timestamp": "2025-01-25T21:32:38.709737"
+            },
+            {
+                "answer_text": "Follow up in one and three weeks.",
+                "answer_label": "1 week, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709742"
+            },
+            {
+                "answer_text": "Follow up in two and three weeks.",
+                "answer_label": "2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709747"
+            },
+            {
+                "answer_text": "Follow up in one, two and three weeks.",
+                "answer_label": "1 week, 2 weeks, 3 weeks",
+                "timestamp": "2025-01-25T21:32:38.709752"
+            }
+        ]
+    },
+    {
+        "question": "What products interest you?",
+        "type": "MULTI_SELECT",
+        "answers": [
+            {
+                "answer_text": "I'm fascinated by automotive radar target simulation.",
+                "answer_label": "Automotive radar target simulation",
+                "timestamp": "2025-01-25T21:32:54.467615"
+            },
+            {
+                "answer_text": "I'm intrigued by noise figure measurements.",
+                "answer_label": "Noise figure measurements",
+                "timestamp": "2025-01-25T21:32:54.467644"
+            },
+            {
+                "answer_text": "Double-pulse testing holds my interest.",
+                "answer_label": "Double-Pulse Testing",
+                "timestamp": "2025-01-25T21:32:54.467649"
+            },
+            {
+                "answer_text": "I find display port debugging and compliance quite engaging.",
+                "answer_label": "Display port debugging and compliance",
+                "timestamp": "2025-01-25T21:32:54.467652"
+            },
+            {
+                "answer_text": "High-speed interconnect testing is a field that piques my curiosity.",
+                "answer_label": "High-speed interconnect testing",
+                "timestamp": "2025-01-25T21:32:54.467655"
+            },
+            {
+                "answer_text": "I'm interested in automotive radar target simulation and noise figure measurements.",
+                "answer_label": "Automotive radar target simulation, Noise figure measurements",
+                "timestamp": "2025-01-25T21:32:54.467658"
+            },
+            {
+                "answer_text": "I'm interested in automotive radar target simulation and double-pulse testing.",
+                "answer_label": "Automotive radar target simulation, Double-Pulse Testing",
+                "timestamp": "2025-01-25T21:32:54.467661"
+            },
+            {
+                "answer_text": "I'm interested in automotive radar target simulation and display port debugging and compliance.",
+                "answer_label": "Automotive radar target simulation, Display port debugging and compliance",
+                "timestamp": "2025-01-25T21:32:54.467669"
+            },
+            {
+                "answer_text": "I'm interested in automotive radar target simulation and high-speed interconnect testing.",
+                "answer_label": "Automotive radar target simulation, High-speed interconnect testing",
+                "timestamp": "2025-01-25T21:32:54.467672"
+            },
+            {
+                "answer_text": "I'm interested in noise figure measurements and double-pulse testing.",
+                "answer_label": "Noise figure measurements, Double-Pulse Testing",
+                "timestamp": "2025-01-25T21:32:54.467675"
+            },
+            {
+                "answer_text": "I'm interested in noise figure measurements and display port debugging and compliance.",
+                "answer_label": "Noise figure measurements, Display port debugging and compliance",
+                "timestamp": "2025-01-25T21:32:54.467678"
+            },
+            {
+                "answer_text": "I'm interested in noise figure measurements and high-speed interconnect testing.",
+                "answer_label": "Noise figure measurements, High-speed interconnect testing",
+                "timestamp": "2025-01-25T21:32:54.467681"
+            },
+            {
+                "answer_text": "I'm interested in double-pulse testing and display port debugging and compliance.",
+                "answer_label": "Double-Pulse Testing, Display port debugging and compliance",
+                "timestamp": "2025-01-25T21:32:54.467684"
+            },
+            {
+                "answer_text": "I'm interested in double-pulse testing and high-speed interconnect testing.",
+                "answer_label": "Double-Pulse Testing, High-speed interconnect testing",
+                "timestamp": "2025-01-25T21:32:54.467687"
+            },
+            {
+                "answer_text": "I'm interested in display port debugging and compliance and high-speed interconnect testing.",
+                "answer_label": "Display port debugging and compliance, High-speed interconnect testing",
+                "timestamp": "2025-01-25T21:32:54.467690"
+            },
+            {
+                "answer_text": "I'm interested in automotive radar target simulation, noise figure measurements, and double-pulse testing.",
+                "answer_label": "Automotive radar target simulation, Noise figure measurements, Double-Pulse Testing",
+                "timestamp": "2025-01-25T21:32:54.467693"
+            },
+            {
+                "answer_text": "I'm interested in automotive radar target simulation, noise figure measurements, and display port debugging and compliance.",
+                "answer_label": "Automotive radar target simulation, Noise figure measurements, Display port debugging and compliance",
+                "timestamp": "2025-01-25T21:32:54.467696"
+            },
+            {
+                "answer_text": "I'm interested in automotive radar target simulation, noise figure measurements, and high-speed interconnect testing.",
+                "answer_label": "Automotive radar target simulation, Noise figure measurements, High-speed interconnect testing",
+                "timestamp": "2025-01-25T21:32:54.467699"
+            },
+            {
+                "answer_text": "I'm interested in automotive radar target simulation, double-pulse testing, and display port debugging and compliance.",
+                "answer_label": "Automotive radar target simulation, Double-Pulse Testing, Display port debugging and compliance",
+                "timestamp": "2025-01-25T21:32:54.467702"
+            },
+            {
+                "answer_text": "I'm interested in automotive radar target simulation, double-pulse testing, and high-speed interconnect testing.",
+                "answer_label": "Automotive radar target simulation, Double-Pulse Testing, High-speed interconnect testing",
+                "timestamp": "2025-01-25T21:32:54.467705"
+            },
+            {
+                "answer_text": "I'm interested in automotive radar target simulation, display port debugging and compliance, and high-speed interconnect testing.",
+                "answer_label": "Automotive radar target simulation, Display port debugging and compliance, High-speed interconnect testing",
+                "timestamp": "2025-01-25T21:32:54.467708"
+            },
+            {
+                "answer_text": "I'm interested in noise figure measurements, double-pulse testing, and display port debugging and compliance.",
+                "answer_label": "Noise figure measurements, Double-Pulse Testing, Display port debugging and compliance",
+                "timestamp": "2025-01-25T21:32:54.467711"
+            },
+            {
+                "answer_text": "I'm interested in noise figure measurements, double-pulse testing, and high-speed interconnect testing.",
+                "answer_label": "Noise figure measurements, Double-Pulse Testing, High-speed interconnect testing",
+                "timestamp": "2025-01-25T21:32:54.467714"
+            },
+            {
+                "answer_text": "I'm interested in noise figure measurements, display port debugging and compliance, and high-speed interconnect testing.",
+                "answer_label": "Noise figure measurements, Display port debugging and compliance, High-speed interconnect testing",
+                "timestamp": "2025-01-25T21:32:54.467717"
+            },
+            {
+                "answer_text": "I'm interested in double-pulse testing, display port debugging and compliance, and high-speed interconnect testing.",
+                "answer_label": "Double-Pulse Testing, Display port debugging and compliance, High-speed interconnect testing",
+                "timestamp": "2025-01-25T21:32:54.467720"
+            },
+            {
+                "answer_text": "I'm interested in automotive radar target simulation, noise figure measurements, double-pulse testing, and display port debugging and compliance.",
+                "answer_label": "Automotive radar target simulation, Noise figure measurements, Double-Pulse Testing, Display port debugging and compliance",
+                "timestamp": "2025-01-25T21:32:54.467723"
+            },
+            {
+                "answer_text": "I'm interested in automotive radar target simulation, noise figure measurements, double-pulse testing, and high-speed interconnect testing.",
+                "answer_label": "Automotive radar target simulation, Noise figure measurements, Double-Pulse Testing, High-speed interconnect testing",
+                "timestamp": "2025-01-25T21:32:54.467726"
+            },
+            {
+                "answer_text": "I'm interested in automotive radar target simulation, noise figure measurements, display port debugging and compliance, and high-speed interconnect testing.",
+                "answer_label": "Automotive radar target simulation, Noise figure measurements, Display port debugging and compliance, High-speed interconnect testing",
+                "timestamp": "2025-01-25T21:32:54.467729"
+            },
+            {
+                "answer_text": "I'm interested in automotive radar target simulation, double-pulse testing, display port debugging and compliance, and high-speed interconnect testing.",
+                "answer_label": "Automotive radar target simulation, Double-Pulse Testing, Display port debugging and compliance, High-speed interconnect testing",
+                "timestamp": "2025-01-25T21:32:54.467732"
+            },
+            {
+                "answer_text": "I'm interested in noise figure measurements, double-pulse testing, display port debugging and compliance, and high-speed interconnect testing.",
+                "answer_label": "Noise figure measurements, Double-Pulse Testing, Display port debugging and compliance, High-speed interconnect testing",
+                "timestamp": "2025-01-25T21:32:54.467735"
+            },
+            {
+                "answer_text": "I'm interested in automotive radar target simulation, noise figure measurements, double-pulse testing, display port debugging and compliance, and high-speed interconnect testing.",
+                "answer_label": "Automotive radar target simulation, Noise figure measurements, Double-Pulse Testing, Display port debugging and compliance, High-speed interconnect testing",
+                "timestamp": "2025-01-25T21:32:54.467738"
+            }
+        ]
+    },
+    {
+        "question": "What products are you interested in?",
+        "type": "MULTI_SELECT",
+        "answers": [
+            {
+                "answer_text": "I'm interested in Notion and JTS.",
+                "answer_label": "Notion, JTS",
+                "timestamp": "2025-01-25T21:33:14.527702"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM.",
+                "answer_label": "MY-SYSTEM",
+                "timestamp": "2025-01-25T21:33:14.527759"
+            },
+            {
+                "answer_text": "I'm interested in JS EcoLine and AKW100.",
+                "answer_label": "JS EcoLine, AKW100",
+                "timestamp": "2025-01-25T21:33:14.527768"
+            },
+            {
+                "answer_text": "I'm interested in Notion, JTS, and JS EcoLine.",
+                "answer_label": "Notion, JTS, JS EcoLine",
+                "timestamp": "2025-01-25T21:33:14.527775"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM and AX100.",
+                "answer_label": "MY-SYSTEM, AX100",
+                "timestamp": "2025-01-25T21:33:14.527781"
+            },
+            {
+                "answer_text": "I'm interested in AKW100.",
+                "answer_label": "AKW100",
+                "timestamp": "2025-01-25T21:33:14.527787"
+            },
+            {
+                "answer_text": "I'm interested in JTS and AX100.",
+                "answer_label": "JTS, AX100",
+                "timestamp": "2025-01-25T21:33:14.527793"
+            },
+            {
+                "answer_text": "I'm interested in Notion, JTS, JS EcoLine, and AKW100.",
+                "answer_label": "Notion, JTS, JS EcoLine, AKW100",
+                "timestamp": "2025-01-25T21:33:14.527799"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, AKW100, and AX100.",
+                "answer_label": "MY-SYSTEM, AKW100, AX100",
+                "timestamp": "2025-01-25T21:33:14.527804"
+            },
+            {
+                "answer_text": "I'm interested in JS EcoLine.",
+                "answer_label": "JS EcoLine",
+                "timestamp": "2025-01-25T21:33:14.527811"
+            },
+            {
+                "answer_text": "I'm interested in AX100.",
+                "answer_label": "AX100",
+                "timestamp": "2025-01-25T21:33:14.527817"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM and JTS.",
+                "answer_label": "MY-SYSTEM, JTS",
+                "timestamp": "2025-01-25T21:33:14.527823"
+            },
+            {
+                "answer_text": "I'm interested in Notion and AX100.",
+                "answer_label": "Notion, AX100",
+                "timestamp": "2025-01-25T21:33:14.527828"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, JS EcoLine, and AKW100.",
+                "answer_label": "MY-SYSTEM, JS EcoLine, AKW100",
+                "timestamp": "2025-01-25T21:33:14.527834"
+            },
+            {
+                "answer_text": "I'm interested in Notion, AKW100, and AX100.",
+                "answer_label": "Notion, AKW100, AX100",
+                "timestamp": "2025-01-25T21:33:14.527840"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, Notion, and JTS.",
+                "answer_label": "MY-SYSTEM, Notion, JTS",
+                "timestamp": "2025-01-25T21:33:14.527845"
+            },
+            {
+                "answer_text": "I'm interested in JTS and AKW100.",
+                "answer_label": "JTS, AKW100",
+                "timestamp": "2025-01-25T21:33:14.527850"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, Notion, and AX100.",
+                "answer_label": "MY-SYSTEM, Notion, AX100",
+                "timestamp": "2025-01-25T21:33:14.527856"
+            },
+            {
+                "answer_text": "I'm interested in Notion, JS EcoLine, and AX100.",
+                "answer_label": "Notion, JS EcoLine, AX100",
+                "timestamp": "2025-01-25T21:33:14.527862"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, JTS, and AKW100.",
+                "answer_label": "MY-SYSTEM, JTS, AKW100",
+                "timestamp": "2025-01-25T21:33:14.527942"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, JTS, and AX100.",
+                "answer_label": "MY-SYSTEM, JTS, AX100",
+                "timestamp": "2025-01-25T21:33:14.527983"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, JS EcoLine, and AX100.",
+                "answer_label": "MY-SYSTEM, JS EcoLine, AX100",
+                "timestamp": "2025-01-25T21:33:14.527996"
+            },
+            {
+                "answer_text": "I'm interested in Notion, JTS, and AX100.",
+                "answer_label": "Notion, JTS, AX100",
+                "timestamp": "2025-01-25T21:33:14.528006"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, Notion, JS EcoLine, and AKW100.",
+                "answer_label": "MY-SYSTEM, Notion, JS EcoLine, AKW100",
+                "timestamp": "2025-01-25T21:33:14.528045"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, Notion, JTS, and AX100.",
+                "answer_label": "MY-SYSTEM, Notion, JTS, AX100",
+                "timestamp": "2025-01-25T21:33:14.528066"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, Notion, JS EcoLine, and AX100.",
+                "answer_label": "MY-SYSTEM, Notion, JS EcoLine, AX100",
+                "timestamp": "2025-01-25T21:33:14.528096"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, JTS, JS EcoLine, and AKW100.",
+                "answer_label": "MY-SYSTEM, JTS, JS EcoLine, AKW100",
+                "timestamp": "2025-01-25T21:33:14.528122"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, JTS, JS EcoLine, and AX100.",
+                "answer_label": "MY-SYSTEM, JTS, JS EcoLine, AX100",
+                "timestamp": "2025-01-25T21:33:14.528134"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, JTS, AKW100, and AX100.",
+                "answer_label": "MY-SYSTEM, JTS, AKW100, AX100",
+                "timestamp": "2025-01-25T21:33:14.528142"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, Notion, JTS, JS EcoLine, and AKW100.",
+                "answer_label": "MY-SYSTEM, Notion, JTS, JS EcoLine, AKW100",
+                "timestamp": "2025-01-25T21:33:14.528152"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, Notion, JTS, JS EcoLine, and AX100.",
+                "answer_label": "MY-SYSTEM, Notion, JTS, JS EcoLine, AX100",
+                "timestamp": "2025-01-25T21:33:14.528168"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, Notion, JTS, AKW100, and AX100.",
+                "answer_label": "MY-SYSTEM, Notion, JTS, AKW100, AX100",
+                "timestamp": "2025-01-25T21:33:14.528181"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, Notion, JS EcoLine, AKW100, and AX100.",
+                "answer_label": "MY-SYSTEM, Notion, JS EcoLine, AKW100, AX100",
+                "timestamp": "2025-01-25T21:33:14.528189"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, JTS, JS EcoLine, AKW100, and AX100.",
+                "answer_label": "MY-SYSTEM, JTS, JS EcoLine, AKW100, AX100",
+                "timestamp": "2025-01-25T21:33:14.528195"
+            },
+            {
+                "answer_text": "I'm interested in Notion, JTS, JS EcoLine, AKW100, and AX100.",
+                "answer_label": "Notion, JTS, JS EcoLine, AKW100, AX100",
+                "timestamp": "2025-01-25T21:33:14.528201"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, Notion, JTS, JS EcoLine, AKW100, and AX100.",
+                "answer_label": "MY-SYSTEM, Notion, JTS, JS EcoLine, AKW100, AX100",
+                "timestamp": "2025-01-25T21:33:14.528207"
+            },
+            {
+                "answer_text": "I'm interested in Notion and JTS.",
+                "answer_label": "Notion, JTS",
+                "timestamp": "2025-01-25T21:33:14.528213"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM.",
+                "answer_label": "MY-SYSTEM",
+                "timestamp": "2025-01-25T21:33:14.528219"
+            },
+            {
+                "answer_text": "I'm interested in JS EcoLine and AKW100.",
+                "answer_label": "JS EcoLine, AKW100",
+                "timestamp": "2025-01-25T21:33:14.528224"
+            },
+            {
+                "answer_text": "I'm interested in Notion, JTS, and JS EcoLine.",
+                "answer_label": "Notion, JTS, JS EcoLine",
+                "timestamp": "2025-01-25T21:33:14.528229"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM and AX100.",
+                "answer_label": "MY-SYSTEM, AX100",
+                "timestamp": "2025-01-25T21:33:14.528234"
+            },
+            {
+                "answer_text": "I'm interested in AKW100.",
+                "answer_label": "AKW100",
+                "timestamp": "2025-01-25T21:33:14.528239"
+            },
+            {
+                "answer_text": "I'm interested in JTS and AX100.",
+                "answer_label": "JTS, AX100",
+                "timestamp": "2025-01-25T21:33:14.528245"
+            },
+            {
+                "answer_text": "I'm interested in Notion, JTS, and JS EcoLine.",
+                "answer_label": "Notion, JTS, JS EcoLine",
+                "timestamp": "2025-01-25T21:33:14.528250"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, AKW100, and AX100.",
+                "answer_label": "MY-SYSTEM, AKW100, AX100",
+                "timestamp": "2025-01-25T21:33:14.528258"
+            },
+            {
+                "answer_text": "I'm interested in JS EcoLine.",
+                "answer_label": "JS EcoLine",
+                "timestamp": "2025-01-25T21:33:14.528265"
+            },
+            {
+                "answer_text": "I'm interested in AX100.",
+                "answer_label": "AX100",
+                "timestamp": "2025-01-25T21:33:14.528270"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM and JTS.",
+                "answer_label": "MY-SYSTEM, JTS",
+                "timestamp": "2025-01-25T21:33:14.528276"
+            },
+            {
+                "answer_text": "I'm interested in Notion and AX100.",
+                "answer_label": "Notion, AX100",
+                "timestamp": "2025-01-25T21:33:14.528282"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, JS EcoLine, and AKW100.",
+                "answer_label": "MY-SYSTEM, JS EcoLine, AKW100",
+                "timestamp": "2025-01-25T21:33:14.528287"
+            },
+            {
+                "answer_text": "I'm interested in Notion, AKW100, and AX100.",
+                "answer_label": "Notion, AKW100, AX100",
+                "timestamp": "2025-01-25T21:33:14.528293"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, Notion, and JTS.",
+                "answer_label": "MY-SYSTEM, Notion, JTS",
+                "timestamp": "2025-01-25T21:33:14.528298"
+            },
+            {
+                "answer_text": "I'm interested in JTS and AKW100.",
+                "answer_label": "JTS, AKW100",
+                "timestamp": "2025-01-25T21:33:14.528304"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, Notion, and AX100.",
+                "answer_label": "MY-SYSTEM, Notion, AX100",
+                "timestamp": "2025-01-25T21:33:14.528310"
+            },
+            {
+                "answer_text": "I'm interested in Notion, JS EcoLine, and AX100.",
+                "answer_label": "Notion, JS EcoLine, AX100",
+                "timestamp": "2025-01-25T21:33:14.528326"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, JTS, and AKW100.",
+                "answer_label": "MY-SYSTEM, JTS, AKW100",
+                "timestamp": "2025-01-25T21:33:14.528331"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, JTS, and AX100.",
+                "answer_label": "MY-SYSTEM, JTS, AX100",
+                "timestamp": "2025-01-25T21:33:14.528337"
+            },
+            {
+                "answer_text": "I'm interested in MY-SYSTEM, JS EcoLine, and AX100.",
+                "answer_label": "MY-SYSTEM, JS EcoLine, AX100",
+                "timestamp": "2025-01-25T21:33:14.528343"
+            },
+            {
+                "answer_text": "I'm interested in Notion, JTS, and AX100.",
+                "answer_label": "Notion, JTS, AX100",
+                "timestamp": "2025-01-25T21:33:14.528349"
+            },
+            {
+                "answer_text": "I'm interested in  Notion.",
+                "answer_label": "Notion",
+                "timestamp": "2025-01-25T21:33:14.528354"
+            },
+            {
+                "answer_text": "I'm interested in JTS.",
+                "answer_label": "JTS",
+                "timestamp": "2025-01-25T21:33:14.528372"
+            },
+            {
+                "answer_text": "I'm interested in  JS EcoLine.",
+                "answer_label": "JS EcoLine",
+                "timestamp": "2025-01-25T21:33:14.528377"
+            },
+            {
+                "answer_text": "I'm interested in AKW100.",
+                "answer_label": "AKW100",
+                "timestamp": "2025-01-25T21:33:14.528382"
+            },
+            {
+                "answer_text": "I'm interested in  MY-SYSTEM.",
+                "answer_label": "MY-SYSTEM",
+                "timestamp": "2025-01-25T21:33:14.528388"
+            }
+        ]
+    },
+    {
+        "question": "What follow-up is planned?",
+        "type": "MULTI_SELECT",
+        "answers": [
+            {
+                "answer_text": "We'll send a follow-up email next week.",
+                "answer_label": "Email",
+                "timestamp": "2025-01-25T21:33:29.377902"
+            },
+            {
+                "answer_text": "A phone call will be made tomorrow morning to discuss next steps.",
+                "answer_label": "Phone",
+                "timestamp": "2025-01-25T21:33:29.377973"
+            },
+            {
+                "answer_text": "We'll schedule a visit to your office on Friday.",
+                "answer_label": "Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.377988"
+            },
+            {
+                "answer_text": "No further action is required at this time.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.378000"
+            },
+            {
+                "answer_text": "We'll email you with the updated information and call to confirm.",
+                "answer_label": "Email, Phone",
+                "timestamp": "2025-01-25T21:33:29.378009"
+            },
+            {
+                "answer_text": "I'll schedule a visit and send a confirmation email.",
+                "answer_label": "Email, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378019"
+            },
+            {
+                "answer_text": "We will call and schedule a site visit for next week.",
+                "answer_label": "Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378028"
+            },
+            {
+                "answer_text": "No follow-up is needed; the issue has been resolved.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.378037"
+            },
+            {
+                "answer_text": "We'll send an email outlining the next steps and schedule a call to discuss.",
+                "answer_label": "Email, Phone",
+                "timestamp": "2025-01-25T21:33:29.378046"
+            },
+            {
+                "answer_text": "A follow-up email will be sent, and a site visit is planned for next week.",
+                "answer_label": "Email, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378055"
+            },
+            {
+                "answer_text": "A phone call will be made to schedule a future visit.",
+                "answer_label": "Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378225"
+            },
+            {
+                "answer_text": "No further action is planned at this point.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.378270"
+            },
+            {
+                "answer_text": "We're sending a follow-up email today, and we'll call you tomorrow.",
+                "answer_label": "Email, Phone",
+                "timestamp": "2025-01-25T21:33:29.378285"
+            },
+            {
+                "answer_text": "We plan to email you and then schedule an in-person visit.",
+                "answer_label": "Email, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378294"
+            },
+            {
+                "answer_text": "We'll give you a call to arrange a convenient time for a visit.",
+                "answer_label": "Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378304"
+            },
+            {
+                "answer_text": "No specific follow-up is anticipated.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.378312"
+            },
+            {
+                "answer_text": "An email summarizing the meeting will be sent.",
+                "answer_label": "Email",
+                "timestamp": "2025-01-25T21:33:29.378321"
+            },
+            {
+                "answer_text": "I will call you tomorrow to discuss the next steps.",
+                "answer_label": "Phone",
+                "timestamp": "2025-01-25T21:33:29.378331"
+            },
+            {
+                "answer_text": "We'll schedule a visit to your place next Tuesday.",
+                "answer_label": "Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378339"
+            },
+            {
+                "answer_text": "No further actions are planned.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.378349"
+            },
+            {
+                "answer_text": "We will send an email and then follow up with a phone call.",
+                "answer_label": "Email, Phone",
+                "timestamp": "2025-01-25T21:33:29.378358"
+            },
+            {
+                "answer_text": "The next step is to send an email and schedule a site visit.",
+                "answer_label": "Email, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378368"
+            },
+            {
+                "answer_text": "A phone call will be made to schedule a convenient time to visit.",
+                "answer_label": "Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378377"
+            },
+            {
+                "answer_text": "No further steps are required.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.378385"
+            },
+            {
+                "answer_text": "A follow-up email will be sent with details and a phone call will be made for confirmation.",
+                "answer_label": "Email, Phone",
+                "timestamp": "2025-01-25T21:33:29.378395"
+            },
+            {
+                "answer_text": "We will send an email and then set up a meeting to discuss the next steps.",
+                "answer_label": "Email, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378405"
+            },
+            {
+                "answer_text": "We will call to schedule a visit to assess your needs.",
+                "answer_label": "Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378415"
+            },
+            {
+                "answer_text": "No additional action is needed currently.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.378424"
+            },
+            {
+                "answer_text": "An email will be sent with a proposed date for a visit.",
+                "answer_label": "Email, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378433"
+            },
+            {
+                "answer_text": "We will make a phone call next week for a follow up.",
+                "answer_label": "Phone",
+                "timestamp": "2025-01-25T21:33:29.378443"
+            },
+            {
+                "answer_text": "A detailed email will be sent with all the necessary information.",
+                "answer_label": "Email",
+                "timestamp": "2025-01-25T21:33:29.378453"
+            },
+            {
+                "answer_text": "We'll schedule a home visit for a consultation.",
+                "answer_label": "Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378462"
+            },
+            {
+                "answer_text": "No further action is required at this time.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.378472"
+            },
+            {
+                "answer_text": "We\u2019ll send an email and schedule a follow-up call.",
+                "answer_label": "Email, Phone",
+                "timestamp": "2025-01-25T21:33:29.378483"
+            },
+            {
+                "answer_text": "We\u2019re planning an email and a home visit.",
+                "answer_label": "Email, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378493"
+            },
+            {
+                "answer_text": "A phone call will follow to arrange a visit.",
+                "answer_label": "Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378503"
+            },
+            {
+                "answer_text": "There is no planned follow-up.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.378514"
+            },
+            {
+                "answer_text": "The client will receive an email with the next steps.",
+                "answer_label": "Email",
+                "timestamp": "2025-01-25T21:33:29.378525"
+            },
+            {
+                "answer_text": "A phone call will be placed within 24 hours.",
+                "answer_label": "Phone",
+                "timestamp": "2025-01-25T21:33:29.378538"
+            },
+            {
+                "answer_text": "A meeting will be scheduled for next week.",
+                "answer_label": "Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378550"
+            },
+            {
+                "answer_text": "Nothing further is planned at present.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.378562"
+            },
+            {
+                "answer_text": "We will email you the details and then call to confirm the next steps.",
+                "answer_label": "Email, Phone",
+                "timestamp": "2025-01-25T21:33:29.378574"
+            },
+            {
+                "answer_text": "An email will be sent, and a meeting is to be scheduled.",
+                "answer_label": "Email, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378587"
+            },
+            {
+                "answer_text": "A call will be made to determine a suitable time for a visit.",
+                "answer_label": "Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378598"
+            },
+            {
+                "answer_text": "No additional follow-up is required.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.378611"
+            },
+            {
+                "answer_text": "Following up via email and phone call will occur next week.",
+                "answer_label": "Email, Phone",
+                "timestamp": "2025-01-25T21:33:29.378623"
+            },
+            {
+                "answer_text": "We\u2019re sending an email with proposed dates for a site visit.",
+                "answer_label": "Email, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378636"
+            },
+            {
+                "answer_text": "We\u2019ll phone to arrange a suitable time for the visit.",
+                "answer_label": "Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378675"
+            },
+            {
+                "answer_text": "No additional follow-up is planned.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.378697"
+            },
+            {
+                "answer_text": "A comprehensive email will provide a detailed update and proposed next steps.",
+                "answer_label": "Email",
+                "timestamp": "2025-01-25T21:33:29.378711"
+            },
+            {
+                "answer_text": "We will contact you by phone next week.",
+                "answer_label": "Phone",
+                "timestamp": "2025-01-25T21:33:29.378723"
+            },
+            {
+                "answer_text": "A site visit will be scheduled for your convenience.",
+                "answer_label": "Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378800"
+            },
+            {
+                "answer_text": "No follow up needed.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.378890"
+            },
+            {
+                "answer_text": "An email will be sent, followed by a phone call to confirm arrangements.",
+                "answer_label": "Email, Phone",
+                "timestamp": "2025-01-25T21:33:29.378906"
+            },
+            {
+                "answer_text": "An email containing scheduling options for a site visit will be sent.",
+                "answer_label": "Email, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378917"
+            },
+            {
+                "answer_text": "A phone call will be initiated to arrange the site visit.",
+                "answer_label": "Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378938"
+            },
+            {
+                "answer_text": "No further contact is planned at this stage.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.378947"
+            },
+            {
+                "answer_text": "A detailed email will explain the next steps, and we'll follow up with a call.",
+                "answer_label": "Email, Phone",
+                "timestamp": "2025-01-25T21:33:29.378957"
+            },
+            {
+                "answer_text": "We're emailing a schedule proposal for a site visit.",
+                "answer_label": "Email, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378965"
+            },
+            {
+                "answer_text": "A phone call will be scheduled to arrange a visit.",
+                "answer_label": "Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.378974"
+            },
+            {
+                "answer_text": "No further action is anticipated.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.378983"
+            },
+            {
+                "answer_text": "We\u2019ll send an email, and then phone to confirm everything.",
+                "answer_label": "Email, Phone",
+                "timestamp": "2025-01-25T21:33:29.378993"
+            },
+            {
+                "answer_text": "We\u2019re planning an email outlining the next steps and scheduling a site visit.",
+                "answer_label": "Email, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379002"
+            },
+            {
+                "answer_text": "We will call to confirm a time and date for the visit.",
+                "answer_label": "Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379011"
+            },
+            {
+                "answer_text": "No further steps are necessary.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.379021"
+            },
+            {
+                "answer_text": "We'll send an email and phone to discuss next steps and schedule a visit.",
+                "answer_label": "Email, Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379030"
+            },
+            {
+                "answer_text": "We'll email to schedule the visit and confirm by phone.",
+                "answer_label": "Email, Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379039"
+            },
+            {
+                "answer_text": "We will phone to confirm the visit details and send a follow-up email.",
+                "answer_label": "Email, Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379048"
+            },
+            {
+                "answer_text": "No further follow-up is needed at present.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.379057"
+            },
+            {
+                "answer_text": "We will send an email outlining our next steps.",
+                "answer_label": "Email",
+                "timestamp": "2025-01-25T21:33:29.379067"
+            },
+            {
+                "answer_text": "We will conduct a phone follow-up.",
+                "answer_label": "Phone",
+                "timestamp": "2025-01-25T21:33:29.379077"
+            },
+            {
+                "answer_text": "We are planning a site visit.",
+                "answer_label": "Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379086"
+            },
+            {
+                "answer_text": "No further action will be taken.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.379096"
+            },
+            {
+                "answer_text": "A follow-up email will be sent, and a phone call will be made to schedule a site visit.",
+                "answer_label": "Email, Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379107"
+            },
+            {
+                "answer_text": "An email outlining next steps and scheduling a phone call to confirm visit plans will be sent.",
+                "answer_label": "Email, Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379122"
+            },
+            {
+                "answer_text": "A phone call will be made to schedule the visit, followed by an email confirmation.",
+                "answer_label": "Email, Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379133"
+            },
+            {
+                "answer_text": "No further action is planned at this time.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.379144"
+            },
+            {
+                "answer_text": "We are sending a follow-up email.",
+                "answer_label": "Email",
+                "timestamp": "2025-01-25T21:33:29.379155"
+            },
+            {
+                "answer_text": "We will call to check in next week.",
+                "answer_label": "Phone",
+                "timestamp": "2025-01-25T21:33:29.379167"
+            },
+            {
+                "answer_text": "We're setting up a visit for early next week.",
+                "answer_label": "Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379178"
+            },
+            {
+                "answer_text": "No additional follow up is planned.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.379188"
+            },
+            {
+                "answer_text": "We will send an email and call to set up a visit.",
+                "answer_label": "Email, Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379198"
+            },
+            {
+                "answer_text": "We will email you with details and then call to finalize the visit scheduling.",
+                "answer_label": "Email, Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379209"
+            },
+            {
+                "answer_text": "We will make a phone call to arrange a visit and send an email confirmation.",
+                "answer_label": "Email, Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379272"
+            },
+            {
+                "answer_text": "No further action required.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.379300"
+            },
+            {
+                "answer_text": "We will send a follow-up email with the next steps.",
+                "answer_label": "Email",
+                "timestamp": "2025-01-25T21:33:29.379308"
+            },
+            {
+                "answer_text": "We plan on calling you next week.",
+                "answer_label": "Phone",
+                "timestamp": "2025-01-25T21:33:29.379315"
+            },
+            {
+                "answer_text": "A visit will be scheduled for next month.",
+                "answer_label": "Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379337"
+            },
+            {
+                "answer_text": "No follow-up is necessary.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.379345"
+            },
+            {
+                "answer_text": "We will email and call regarding the scheduled visit.",
+                "answer_label": "Email, Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379351"
+            },
+            {
+                "answer_text": "We'll email and call to confirm the visit, and send an email recap.",
+                "answer_label": "Email, Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379358"
+            },
+            {
+                "answer_text": "A follow-up email and phone call will be used to coordinate the visit.",
+                "answer_label": "Email, Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379364"
+            },
+            {
+                "answer_text": "No further actions are needed.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.379371"
+            },
+            {
+                "answer_text": "A comprehensive email summarizing the discussion will be sent.",
+                "answer_label": "Email",
+                "timestamp": "2025-01-25T21:33:29.379377"
+            },
+            {
+                "answer_text": "A follow-up phone call is planned.",
+                "answer_label": "Phone",
+                "timestamp": "2025-01-25T21:33:29.379384"
+            },
+            {
+                "answer_text": "A site visit will be arranged shortly.",
+                "answer_label": "Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379390"
+            },
+            {
+                "answer_text": "No further action is required.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.379397"
+            },
+            {
+                "answer_text": "We'll email, call, and schedule a visit to discuss further.",
+                "answer_label": "Email, Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379429"
+            },
+            {
+                "answer_text": "We will send an email, schedule a call, and plan a visit.",
+                "answer_label": "Email, Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379435"
+            },
+            {
+                "answer_text": "We'll confirm the visit via phone call and send an email summary.",
+                "answer_label": "Email, Phone, Schedule a Visit",
+                "timestamp": "2025-01-25T21:33:29.379498"
+            },
+            {
+                "answer_text": "No further follow-up is planned.",
+                "answer_label": "No action",
+                "timestamp": "2025-01-25T21:33:29.379514"
+            }
+        ]
+    },
+    {
+        "question": "Who should I CC on the follow-up?",
+        "type": "MULTI_SELECT",
+        "answers": [
+            {
+                "answer_text": "CC Stephan Maier on the follow-up.",
+                "answer_label": "'Stephan Maier'",
+                "timestamp": "2025-01-25T21:33:49.228523"
+            },
+            {
+                "answer_text": "CC Joachim Wagner on the follow-up.",
+                "answer_label": "'Joachim Wagner'",
+                "timestamp": "2025-01-25T21:33:49.228595"
+            },
+            {
+                "answer_text": "CC Erik Schneider on the follow-up.",
+                "answer_label": "'Erik Schneider'",
+                "timestamp": "2025-01-25T21:33:49.228612"
+            },
+            {
+                "answer_text": "CC Oliver Eibel on the follow-up.",
+                "answer_label": "'Oliver Eibel'",
+                "timestamp": "2025-01-25T21:33:49.228625"
+            },
+            {
+                "answer_text": "CC Angelina Haug on the follow-up.",
+                "answer_label": "'Angelina Haug'",
+                "timestamp": "2025-01-25T21:33:49.228638"
+            },
+            {
+                "answer_text": "CC Marisa Peng on the follow-up.",
+                "answer_label": "'Marisa Peng'",
+                "timestamp": "2025-01-25T21:33:49.228652"
+            },
+            {
+                "answer_text": "CC Johannes Wagner on the follow-up.",
+                "answer_label": "'Johannes Wagner'",
+                "timestamp": "2025-01-25T21:33:49.228664"
+            },
+            {
+                "answer_text": "CC Jessica Hanke on the follow-up.",
+                "answer_label": "'Jessica Hanke'",
+                "timestamp": "2025-01-25T21:33:49.228677"
+            },
+            {
+                "answer_text": "CC Sandro Kalter on the follow-up.",
+                "answer_label": "'Sandro Kalter'",
+                "timestamp": "2025-01-25T21:33:49.228690"
+            },
+            {
+                "answer_text": "CC Jens Roschmann on the follow-up.",
+                "answer_label": "'Jens Roschmann'",
+                "timestamp": "2025-01-25T21:33:49.228703"
+            },
+            {
+                "answer_text": "CC Domiki Stein on the follow-up.",
+                "answer_label": "'Domiki Stein'",
+                "timestamp": "2025-01-25T21:33:49.228716"
+            },
+            {
+                "answer_text": "CC Sean Kennin on the follow-up.",
+                "answer_label": "'Sean Kennin'",
+                "timestamp": "2025-01-25T21:33:49.228729"
+            },
+            {
+                "answer_text": "CC Tim Persson on the follow-up.",
+                "answer_label": "'Tim Persson'",
+                "timestamp": "2025-01-25T21:33:49.228741"
+            },
+            {
+                "answer_text": "CC Stephan Maier and Joachim Wagner on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Joachim Wagner'",
+                "timestamp": "2025-01-25T21:33:49.228753"
+            },
+            {
+                "answer_text": "CC Stephan Maier and Erik Schneider on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Erik Schneider'",
+                "timestamp": "2025-01-25T21:33:49.228764"
+            },
+            {
+                "answer_text": "CC Stephan Maier and Oliver Eibel on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Oliver Eibel'",
+                "timestamp": "2025-01-25T21:33:49.228776"
+            },
+            {
+                "answer_text": "CC Stephan Maier and Angelina Haug on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Angelina Haug'",
+                "timestamp": "2025-01-25T21:33:49.228789"
+            },
+            {
+                "answer_text": "CC Stephan Maier and Marisa Peng on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Marisa Peng'",
+                "timestamp": "2025-01-25T21:33:49.228841"
+            },
+            {
+                "answer_text": "CC Stephan Maier and Johannes Wagner on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Johannes Wagner'",
+                "timestamp": "2025-01-25T21:33:49.228860"
+            },
+            {
+                "answer_text": "CC Stephan Maier and Jessica Hanke on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Jessica Hanke'",
+                "timestamp": "2025-01-25T21:33:49.228875"
+            },
+            {
+                "answer_text": "CC Stephan Maier and Sandro Kalter on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Sandro Kalter'",
+                "timestamp": "2025-01-25T21:33:49.228889"
+            },
+            {
+                "answer_text": "CC Stephan Maier and Jens Roschmann on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Jens Roschmann'",
+                "timestamp": "2025-01-25T21:33:49.228902"
+            },
+            {
+                "answer_text": "CC Stephan Maier and Domiki Stein on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Domiki Stein'",
+                "timestamp": "2025-01-25T21:33:49.228915"
+            },
+            {
+                "answer_text": "CC Stephan Maier and Sean Kennin on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Sean Kennin'",
+                "timestamp": "2025-01-25T21:33:49.228928"
+            },
+            {
+                "answer_text": "CC Stephan Maier and Tim Persson on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Tim Persson'",
+                "timestamp": "2025-01-25T21:33:49.228942"
+            },
+            {
+                "answer_text": "CC Joachim Wagner and Erik Schneider on the follow-up.",
+                "answer_label": "'Joachim Wagner', 'Erik Schneider'",
+                "timestamp": "2025-01-25T21:33:49.228954"
+            },
+            {
+                "answer_text": "CC Joachim Wagner and Oliver Eibel on the follow-up.",
+                "answer_label": "'Joachim Wagner', 'Oliver Eibel'",
+                "timestamp": "2025-01-25T21:33:49.228966"
+            },
+            {
+                "answer_text": "CC Joachim Wagner and Angelina Haug on the follow-up.",
+                "answer_label": "'Joachim Wagner', 'Angelina Haug'",
+                "timestamp": "2025-01-25T21:33:49.228978"
+            },
+            {
+                "answer_text": "CC Joachim Wagner and Marisa Peng on the follow-up.",
+                "answer_label": "'Joachim Wagner', 'Marisa Peng'",
+                "timestamp": "2025-01-25T21:33:49.228990"
+            },
+            {
+                "answer_text": "CC Joachim Wagner and Johannes Wagner on the follow-up.",
+                "answer_label": "'Joachim Wagner', 'Johannes Wagner'",
+                "timestamp": "2025-01-25T21:33:49.229001"
+            },
+            {
+                "answer_text": "CC Joachim Wagner and Jessica Hanke on the follow-up.",
+                "answer_label": "'Joachim Wagner', 'Jessica Hanke'",
+                "timestamp": "2025-01-25T21:33:49.229014"
+            },
+            {
+                "answer_text": "CC Joachim Wagner and Sandro Kalter on the follow-up.",
+                "answer_label": "'Joachim Wagner', 'Sandro Kalter'",
+                "timestamp": "2025-01-25T21:33:49.229030"
+            },
+            {
+                "answer_text": "CC Joachim Wagner and Jens Roschmann on the follow-up.",
+                "answer_label": "'Joachim Wagner', 'Jens Roschmann'",
+                "timestamp": "2025-01-25T21:33:49.229043"
+            },
+            {
+                "answer_text": "CC Joachim Wagner and Domiki Stein on the follow-up.",
+                "answer_label": "'Joachim Wagner', 'Domiki Stein'",
+                "timestamp": "2025-01-25T21:33:49.229055"
+            },
+            {
+                "answer_text": "CC Joachim Wagner and Sean Kennin on the follow-up.",
+                "answer_label": "'Joachim Wagner', 'Sean Kennin'",
+                "timestamp": "2025-01-25T21:33:49.229067"
+            },
+            {
+                "answer_text": "CC Joachim Wagner and Tim Persson on the follow-up.",
+                "answer_label": "'Joachim Wagner', 'Tim Persson'",
+                "timestamp": "2025-01-25T21:33:49.229080"
+            },
+            {
+                "answer_text": "CC Erik Schneider and Oliver Eibel on the follow-up.",
+                "answer_label": "'Erik Schneider', 'Oliver Eibel'",
+                "timestamp": "2025-01-25T21:33:49.229092"
+            },
+            {
+                "answer_text": "CC Erik Schneider and Angelina Haug on the follow-up.",
+                "answer_label": "'Erik Schneider', 'Angelina Haug'",
+                "timestamp": "2025-01-25T21:33:49.229104"
+            },
+            {
+                "answer_text": "CC Erik Schneider and Marisa Peng on the follow-up.",
+                "answer_label": "'Erik Schneider', 'Marisa Peng'",
+                "timestamp": "2025-01-25T21:33:49.229117"
+            },
+            {
+                "answer_text": "CC Erik Schneider and Johannes Wagner on the follow-up.",
+                "answer_label": "'Erik Schneider', 'Johannes Wagner'",
+                "timestamp": "2025-01-25T21:33:49.229129"
+            },
+            {
+                "answer_text": "CC Erik Schneider and Jessica Hanke on the follow-up.",
+                "answer_label": "'Erik Schneider', 'Jessica Hanke'",
+                "timestamp": "2025-01-25T21:33:49.229141"
+            },
+            {
+                "answer_text": "CC Erik Schneider and Sandro Kalter on the follow-up.",
+                "answer_label": "'Erik Schneider', 'Sandro Kalter'",
+                "timestamp": "2025-01-25T21:33:49.229229"
+            },
+            {
+                "answer_text": "CC Erik Schneider and Jens Roschmann on the follow-up.",
+                "answer_label": "'Erik Schneider', 'Jens Roschmann'",
+                "timestamp": "2025-01-25T21:33:49.229252"
+            },
+            {
+                "answer_text": "CC Erik Schneider and Domiki Stein on the follow-up.",
+                "answer_label": "'Erik Schneider', 'Domiki Stein'",
+                "timestamp": "2025-01-25T21:33:49.229268"
+            },
+            {
+                "answer_text": "CC Erik Schneider and Sean Kennin on the follow-up.",
+                "answer_label": "'Erik Schneider', 'Sean Kennin'",
+                "timestamp": "2025-01-25T21:33:49.229281"
+            },
+            {
+                "answer_text": "CC Erik Schneider and Tim Persson on the follow-up.",
+                "answer_label": "'Erik Schneider', 'Tim Persson'",
+                "timestamp": "2025-01-25T21:33:49.229498"
+            },
+            {
+                "answer_text": "CC Oliver Eibel and Angelina Haug on the follow-up.",
+                "answer_label": "'Oliver Eibel', 'Angelina Haug'",
+                "timestamp": "2025-01-25T21:33:49.229556"
+            },
+            {
+                "answer_text": "CC Oliver Eibel and Marisa Peng on the follow-up.",
+                "answer_label": "'Oliver Eibel', 'Marisa Peng'",
+                "timestamp": "2025-01-25T21:33:49.229586"
+            },
+            {
+                "answer_text": "CC Oliver Eibel and Johannes Wagner on the follow-up.",
+                "answer_label": "'Oliver Eibel', 'Johannes Wagner'",
+                "timestamp": "2025-01-25T21:33:49.229600"
+            },
+            {
+                "answer_text": "CC Oliver Eibel and Jessica Hanke on the follow-up.",
+                "answer_label": "'Oliver Eibel', 'Jessica Hanke'",
+                "timestamp": "2025-01-25T21:33:49.229620"
+            },
+            {
+                "answer_text": "CC Oliver Eibel and Sandro Kalter on the follow-up.",
+                "answer_label": "'Oliver Eibel', 'Sandro Kalter'",
+                "timestamp": "2025-01-25T21:33:49.229644"
+            },
+            {
+                "answer_text": "CC Oliver Eibel and Jens Roschmann on the follow-up.",
+                "answer_label": "'Oliver Eibel', 'Jens Roschmann'",
+                "timestamp": "2025-01-25T21:33:49.229660"
+            },
+            {
+                "answer_text": "CC Oliver Eibel and Domiki Stein on the follow-up.",
+                "answer_label": "'Oliver Eibel', 'Domiki Stein'",
+                "timestamp": "2025-01-25T21:33:49.229672"
+            },
+            {
+                "answer_text": "CC Oliver Eibel and Sean Kennin on the follow-up.",
+                "answer_label": "'Oliver Eibel', 'Sean Kennin'",
+                "timestamp": "2025-01-25T21:33:49.229682"
+            },
+            {
+                "answer_text": "CC Oliver Eibel and Tim Persson on the follow-up.",
+                "answer_label": "'Oliver Eibel', 'Tim Persson'",
+                "timestamp": "2025-01-25T21:33:49.229694"
+            },
+            {
+                "answer_text": "CC Angelina Haug and Marisa Peng on the follow-up.",
+                "answer_label": "'Angelina Haug', 'Marisa Peng'",
+                "timestamp": "2025-01-25T21:33:49.229705"
+            },
+            {
+                "answer_text": "CC Angelina Haug and Johannes Wagner on the follow-up.",
+                "answer_label": "'Angelina Haug', 'Johannes Wagner'",
+                "timestamp": "2025-01-25T21:33:49.229714"
+            },
+            {
+                "answer_text": "CC Angelina Haug and Jessica Hanke on the follow-up.",
+                "answer_label": "'Angelina Haug', 'Jessica Hanke'",
+                "timestamp": "2025-01-25T21:33:49.229724"
+            },
+            {
+                "answer_text": "CC Angelina Haug and Sandro Kalter on the follow-up.",
+                "answer_label": "'Angelina Haug', 'Sandro Kalter'",
+                "timestamp": "2025-01-25T21:33:49.229734"
+            },
+            {
+                "answer_text": "CC Angelina Haug and Jens Roschmann on the follow-up.",
+                "answer_label": "'Angelina Haug', 'Jens Roschmann'",
+                "timestamp": "2025-01-25T21:33:49.229744"
+            },
+            {
+                "answer_text": "CC Angelina Haug and Domiki Stein on the follow-up.",
+                "answer_label": "'Angelina Haug', 'Domiki Stein'",
+                "timestamp": "2025-01-25T21:33:49.229754"
+            },
+            {
+                "answer_text": "CC Angelina Haug and Sean Kennin on the follow-up.",
+                "answer_label": "'Angelina Haug', 'Sean Kennin'",
+                "timestamp": "2025-01-25T21:33:49.229765"
+            },
+            {
+                "answer_text": "CC Angelina Haug and Tim Persson on the follow-up.",
+                "answer_label": "'Angelina Haug', 'Tim Persson'",
+                "timestamp": "2025-01-25T21:33:49.229775"
+            },
+            {
+                "answer_text": "CC Marisa Peng and Johannes Wagner on the follow-up.",
+                "answer_label": "'Marisa Peng', 'Johannes Wagner'",
+                "timestamp": "2025-01-25T21:33:49.229831"
+            },
+            {
+                "answer_text": "CC Marisa Peng and Jessica Hanke on the follow-up.",
+                "answer_label": "'Marisa Peng', 'Jessica Hanke'",
+                "timestamp": "2025-01-25T21:33:49.229861"
+            },
+            {
+                "answer_text": "CC Marisa Peng and Sandro Kalter on the follow-up.",
+                "answer_label": "'Marisa Peng', 'Sandro Kalter'",
+                "timestamp": "2025-01-25T21:33:49.229877"
+            },
+            {
+                "answer_text": "CC Marisa Peng and Jens Roschmann on the follow-up.",
+                "answer_label": "'Marisa Peng', 'Jens Roschmann'",
+                "timestamp": "2025-01-25T21:33:49.229889"
+            },
+            {
+                "answer_text": "CC Marisa Peng and Domiki Stein on the follow-up.",
+                "answer_label": "'Marisa Peng', 'Domiki Stein'",
+                "timestamp": "2025-01-25T21:33:49.229900"
+            },
+            {
+                "answer_text": "CC Marisa Peng and Sean Kennin on the follow-up.",
+                "answer_label": "'Marisa Peng', 'Sean Kennin'",
+                "timestamp": "2025-01-25T21:33:49.229919"
+            },
+            {
+                "answer_text": "CC Marisa Peng and Tim Persson on the follow-up.",
+                "answer_label": "'Marisa Peng', 'Tim Persson'",
+                "timestamp": "2025-01-25T21:33:49.229939"
+            },
+            {
+                "answer_text": "CC Johannes Wagner and Jessica Hanke on the follow-up.",
+                "answer_label": "'Johannes Wagner', 'Jessica Hanke'",
+                "timestamp": "2025-01-25T21:33:49.229964"
+            },
+            {
+                "answer_text": "CC Johannes Wagner and Sandro Kalter on the follow-up.",
+                "answer_label": "'Johannes Wagner', 'Sandro Kalter'",
+                "timestamp": "2025-01-25T21:33:49.229978"
+            },
+            {
+                "answer_text": "CC Johannes Wagner and Jens Roschmann on the follow-up.",
+                "answer_label": "'Johannes Wagner', 'Jens Roschmann'",
+                "timestamp": "2025-01-25T21:33:49.230298"
+            },
+            {
+                "answer_text": "CC Johannes Wagner and Domiki Stein on the follow-up.",
+                "answer_label": "'Johannes Wagner', 'Domiki Stein'",
+                "timestamp": "2025-01-25T21:33:49.230342"
+            },
+            {
+                "answer_text": "CC Johannes Wagner and Sean Kennin on the follow-up.",
+                "answer_label": "'Johannes Wagner', 'Sean Kennin'",
+                "timestamp": "2025-01-25T21:33:49.230356"
+            },
+            {
+                "answer_text": "CC Johannes Wagner and Tim Persson on the follow-up.",
+                "answer_label": "'Johannes Wagner', 'Tim Persson'",
+                "timestamp": "2025-01-25T21:33:49.230367"
+            },
+            {
+                "answer_text": "CC Jessica Hanke and Sandro Kalter on the follow-up.",
+                "answer_label": "'Jessica Hanke', 'Sandro Kalter'",
+                "timestamp": "2025-01-25T21:33:49.230379"
+            },
+            {
+                "answer_text": "CC Jessica Hanke and Jens Roschmann on the follow-up.",
+                "answer_label": "'Jessica Hanke', 'Jens Roschmann'",
+                "timestamp": "2025-01-25T21:33:49.230390"
+            },
+            {
+                "answer_text": "CC Jessica Hanke and Domiki Stein on the follow-up.",
+                "answer_label": "'Jessica Hanke', 'Domiki Stein'",
+                "timestamp": "2025-01-25T21:33:49.230400"
+            },
+            {
+                "answer_text": "CC Jessica Hanke and Sean Kennin on the follow-up.",
+                "answer_label": "'Jessica Hanke', 'Sean Kennin'",
+                "timestamp": "2025-01-25T21:33:49.230412"
+            },
+            {
+                "answer_text": "CC Jessica Hanke and Tim Persson on the follow-up.",
+                "answer_label": "'Jessica Hanke', 'Tim Persson'",
+                "timestamp": "2025-01-25T21:33:49.230423"
+            },
+            {
+                "answer_text": "CC Sandro Kalter and Jens Roschmann on the follow-up.",
+                "answer_label": "'Sandro Kalter', 'Jens Roschmann'",
+                "timestamp": "2025-01-25T21:33:49.230434"
+            },
+            {
+                "answer_text": "CC Sandro Kalter and Domiki Stein on the follow-up.",
+                "answer_label": "'Sandro Kalter', 'Domiki Stein'",
+                "timestamp": "2025-01-25T21:33:49.230444"
+            },
+            {
+                "answer_text": "CC Sandro Kalter and Sean Kennin on the follow-up.",
+                "answer_label": "'Sandro Kalter', 'Sean Kennin'",
+                "timestamp": "2025-01-25T21:33:49.230455"
+            },
+            {
+                "answer_text": "CC Sandro Kalter and Tim Persson on the follow-up.",
+                "answer_label": "'Sandro Kalter', 'Tim Persson'",
+                "timestamp": "2025-01-25T21:33:49.230466"
+            },
+            {
+                "answer_text": "CC Jens Roschmann and Domiki Stein on the follow-up.",
+                "answer_label": "'Jens Roschmann', 'Domiki Stein'",
+                "timestamp": "2025-01-25T21:33:49.230477"
+            },
+            {
+                "answer_text": "CC Jens Roschmann and Sean Kennin on the follow-up.",
+                "answer_label": "'Jens Roschmann', 'Sean Kennin'",
+                "timestamp": "2025-01-25T21:33:49.230489"
+            },
+            {
+                "answer_text": "CC Jens Roschmann and Tim Persson on the follow-up.",
+                "answer_label": "'Jens Roschmann', 'Tim Persson'",
+                "timestamp": "2025-01-25T21:33:49.230500"
+            },
+            {
+                "answer_text": "CC Domiki Stein and Sean Kennin on the follow-up.",
+                "answer_label": "'Domiki Stein', 'Sean Kennin'",
+                "timestamp": "2025-01-25T21:33:49.230511"
+            },
+            {
+                "answer_text": "CC Domiki Stein and Tim Persson on the follow-up.",
+                "answer_label": "'Domiki Stein', 'Tim Persson'",
+                "timestamp": "2025-01-25T21:33:49.230522"
+            },
+            {
+                "answer_text": "CC Sean Kennin and Tim Persson on the follow-up.",
+                "answer_label": "'Sean Kennin', 'Tim Persson'",
+                "timestamp": "2025-01-25T21:33:49.230533"
+            },
+            {
+                "answer_text": "CC Stephan Maier, Joachim Wagner, Erik Schneider on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Joachim Wagner', 'Erik Schneider'",
+                "timestamp": "2025-01-25T21:33:49.230544"
+            },
+            {
+                "answer_text": "CC Stephan Maier, Joachim Wagner, Oliver Eibel on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Joachim Wagner', 'Oliver Eibel'",
+                "timestamp": "2025-01-25T21:33:49.230556"
+            },
+            {
+                "answer_text": "CC Stephan Maier, Joachim Wagner, Angelina Haug on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Joachim Wagner', 'Angelina Haug'",
+                "timestamp": "2025-01-25T21:33:49.230567"
+            },
+            {
+                "answer_text": "CC Stephan Maier, Joachim Wagner, Marisa Peng on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Joachim Wagner', 'Marisa Peng'",
+                "timestamp": "2025-01-25T21:33:49.230579"
+            },
+            {
+                "answer_text": "CC Stephan Maier, Joachim Wagner, Johannes Wagner on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Joachim Wagner', 'Johannes Wagner'",
+                "timestamp": "2025-01-25T21:33:49.230590"
+            },
+            {
+                "answer_text": "CC Stephan Maier, Joachim Wagner, Jessica Hanke on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Joachim Wagner', 'Jessica Hanke'",
+                "timestamp": "2025-01-25T21:33:49.230601"
+            },
+            {
+                "answer_text": "CC Stephan Maier, Joachim Wagner, Sandro Kalter on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Joachim Wagner', 'Sandro Kalter'",
+                "timestamp": "2025-01-25T21:33:49.230612"
+            },
+            {
+                "answer_text": "CC Stephan Maier, Joachim Wagner, Jens Roschmann on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Joachim Wagner', 'Jens Roschmann'",
+                "timestamp": "2025-01-25T21:33:49.230624"
+            },
+            {
+                "answer_text": "CC Stephan Maier, Joachim Wagner, Domiki Stein on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Joachim Wagner', 'Domiki Stein'",
+                "timestamp": "2025-01-25T21:33:49.230636"
+            },
+            {
+                "answer_text": "CC Stephan Maier, Joachim Wagner, Sean Kennin on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Joachim Wagner', 'Sean Kennin'",
+                "timestamp": "2025-01-25T21:33:49.230646"
+            },
+            {
+                "answer_text": "CC Stephan Maier, Joachim Wagner, Tim Persson on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Joachim Wagner', 'Tim Persson'",
+                "timestamp": "2025-01-25T21:33:49.230657"
+            },
+            {
+                "answer_text": "CC Everyone on the follow-up.",
+                "answer_label": "'Stephan Maier', 'Joachim Wagner', 'Erik Schneider', 'Oliver Eibel', 'Angelina Haug', 'Marisa Peng', 'Johannes Wagner', 'Jessica Hanke', 'Sandro Kalter', 'Jens Roschmann', 'Domiki Stein', 'Sean Kennin', 'Tim Persson'",
+                "timestamp": "2025-01-25T21:33:49.230667"
+            }
+        ]
+    }
+]
