@@ -1,1 +1,3 @@
-roberta_finetuned/
+roberta_finetuned
+/test.json
+/train.json
