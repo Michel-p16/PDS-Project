@@ -23,4 +23,5 @@ This documentation provides a full guide on the generation and preprocessing of 
    data_preprocessing_multi_select
    multi_select_implementation
    evaluation
+   challanges
    development
