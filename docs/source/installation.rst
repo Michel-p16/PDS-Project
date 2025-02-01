@@ -1,16 +1,32 @@
-Installation
-============
+Installation Guide
+==================
 
-So installierst du das PDS Final Project:
+Prerequisites
+-------------
+Ensure you have the following installed:
 
-1. Klone das Repository:
+- Python 3.10 or higher
+- Git
+- Pip
+- Virtual environment (recommended)
 
+Installation Steps
+------------------
+1. Clone the repository:
+   
    .. code-block:: bash
 
-      git clone https://github.com/<dein-github-name>/pds-final-docs.git
+      git clone https://github.com/Michel-p16/PDS-Project.git
+      cd PDS-Project
 
-2. Installiere die Abhängigkeiten:
+2. Install dependencies:
 
    .. code-block:: bash
 
       pip install -r requirements.txt
+
+3. Verify installation:
+
+   .. code-block:: bash
+
+      python -c "import torch; import transformers; print('Setup successful')"
