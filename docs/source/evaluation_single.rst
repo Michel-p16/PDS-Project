@@ -29,13 +29,13 @@ RoBERTa achieves **high precision and recall** across most classes. Minor miscla
    * - Metric
      - Value
    * - **Accuracy**
-     - 96.1%
+     - 97.0%
    * - **F1 Score**
-     - 95.5%
+     - 96.9%
    * - **Precision**
-     - 95.4%
+     - 97.5%
    * - **Recall**
-     - 96.1%
+     - 97.0%
 
 
 
@@ -62,13 +62,13 @@ DistilBERT maintains **high classification accuracy** while being computationall
    * - Metric
      - Value
    * - **Accuracy**
-     - 96.6%
+     - 97.3%
    * - **F1 Score**
-     - 96.9%
+     - 97.2%
    * - **Precision**
-     - 97.4%
+     - 97.6%
    * - **Recall**
-     - 96.9%
+     - 97.3%
 
 
 
@@ -95,13 +95,13 @@ TinyLlama performs **similarly to RoBERTa and DistilBERT**, despite its smaller 
    * - Metric
      - Value
    * - **Accuracy**
-     - 98.5%
-   * - **F1 Score**
-     - 98.5%
-   * - **Precision**
      - 98.6%
+   * - **F1 Score**
+     - 98.6%
+   * - **Precision**
+     - 98.7%
    * - **Recall**
-     - 98.5%
+     - 98.6%
 
 
 
