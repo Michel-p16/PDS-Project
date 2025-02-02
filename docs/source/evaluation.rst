@@ -1,5 +1,3 @@
-.. _evaluation_single_select:
-
 ======================================
 Evaluation of Single-Select Models
 ======================================
@@ -10,9 +8,8 @@ This section provides a detailed evaluation of the **RoBERTa**, **DistilBERT**, 
 RoBERTa Evaluation
 ----------------------------------------------------------
 
-RoBERTa is a **highly optimized Transformer model** that has demonstrated **strong performance** in various NLP tasks.
-
-### Confusion Matrix
+Confusion Matrix
+----------------------------------------------------------
 
 The following confusion matrix illustrates the classification performance of RoBERTa on the test dataset:
 
@@ -47,9 +44,8 @@ The following confusion matrix illustrates the classification performance of RoB
 DistilBERT Evaluation
 ----------------------------------------------------------
 
-DistilBERT is a **lighter and more efficient** Transformer model, designed to **retain performance while reducing computational cost**.
-
-### Confusion Matrix
+Confusion Matrix
+----------------------------------------------------------
 
 .. image:: _static/confusion_matrix_DistilBERT_single_select.png
    :align: center
@@ -82,9 +78,8 @@ DistilBERT is a **lighter and more efficient** Transformer model, designed to **
 TinyLlama Evaluation
 ----------------------------------------------------------
 
-TinyLlama is a **highly optimized lightweight model**, making it a great choice for **low-resource environments**.
-
-### Confusion Matrix
+Confusion Matrix
+----------------------------------------------------------
 
 .. image:: _static/confusion_matrix_LLaMA_single_select.png
    :align: center
@@ -117,33 +112,7 @@ TinyLlama is a **highly optimized lightweight model**, making it a great choice 
 Comparison of Single-Select Models
 ----------------------------------------------------------
 
-The table below summarizes the performance of all three models:
-
-.. list-table::
-   :widths: 25 15 30 30
-   :header-rows: 1
-
-   * - Model
-     - Accuracy
-     - Strengths
-     - Weaknesses
-   * - **RoBERTa**
-     - 97%
-     - Best overall accuracy, strong generalization
-     - Larger model size
-   * - **DistilBERT**
-     - 97%
-     - Lightweight and fast
-     - Slightly lower recall in rare classes
-   * - **TinyLlama**
-     - 97%
-     - Highly optimized for efficiency
-     - Struggles with fine-grained categories
-
-**Conclusions:**
-- **RoBERTa** is the best choice for applications prioritizing **accuracy and generalization**.
-- **DistilBERT** is optimal for **faster inference and lower resource usage**.
-- **TinyLlama** is ideal for **low-resource environments** while still maintaining strong performance.
+As you can see, all our models achieve the same values for all the evaluation metrics. This is not an error in our code or in our data, we have checked this multiple times as we couldn't believe it either. But it seems that all the models perform exactly the same on the single select questions despite being quite different. The good thing about that is, that all the metrics are really good. That means in 97% of all predictions, the model is right.
 
 ----------------------------------------------------------
 Evaluation Code
