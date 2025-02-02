@@ -2,7 +2,7 @@
 Evaluation of Single-Select Models
 ======================================
 
-This section provides a detailed evaluation of the **RoBERTa**, **DistilBERT**, and **TinyLlama** models on single-select questions. Each model is analyzed individually, including its **confusion matrix**, key classification metrics, and a discussion of its performance.
+This section provides an evaluation of the **RoBERTa**, **DistilBERT**, and **TinyLlama** models on single-select questions.
 
 ----------------------------------------------------------
 RoBERTa Evaluation
@@ -18,9 +18,7 @@ The following confusion matrix illustrates the classification performance of RoB
    :alt: Confusion Matrix - RoBERTa Single Select
 
 **Analysis:**
-- RoBERTa achieves **high precision and recall** across most classes.
-- Minor misclassifications occur in **similar categories**, such as technology-related industries.
-- **Strong diagonal alignment** indicates that most predictions are correct.
+RoBERTa achieves **high precision and recall** across most classes. Minor misclassifications occur in **similar categories**, such as 'unsatisfied' and 'very unsatisfied'. Even for humans the difference between those two labels may be hard to distinguish. Overall the matrix shows a **strong diagonal alignment**, which indicates that most predictions are correct.
 
 **Key Metrics**
 
@@ -38,6 +36,8 @@ The following confusion matrix illustrates the classification performance of RoB
      - 97%
    * - **Weighted Average**
      - 97%
+
+
 
 ----------------------------------------------------------
 DistilBERT Evaluation
@@ -51,9 +51,7 @@ DistilBERT Evaluation
    :alt: Confusion Matrix - DistilBERT Single Select
 
 **Analysis:**
-- DistilBERT maintains **high classification accuracy** while being computationally lighter.
-- The **misclassification rate is slightly higher** than RoBERTa in complex categories.
-- **High diagonal density** suggests that the model generalizes well.
+DistilBERT maintains **high classification accuracy** while being computationally lighter. The missclassifications and the overall looks are very similar to RoBERTas. The **High diagonal density** suggests that the model generalizes well.
 
 **Key Metrics**
 
@@ -71,6 +69,8 @@ DistilBERT Evaluation
      - 97%
    * - **Weighted Average**
      - 97%
+
+
 
 ----------------------------------------------------------
 TinyLlama Evaluation
@@ -84,9 +84,7 @@ TinyLlama Evaluation
    :alt: Confusion Matrix - TinyLlama Single Select
 
 **Analysis:**
-- TinyLlama performs **similarly to RoBERTa and DistilBERT**, despite its smaller size.
-- More **misclassifications appear in less frequent classes**.
-- **Still achieves high overall performance**.
+TinyLlama performs **similarly to RoBERTa and DistilBERT**, despite its smaller size, it **still achieves high overall performance**.
 
 **Key Metrics**
 
@@ -105,11 +103,13 @@ TinyLlama Evaluation
    * - **Weighted Average**
      - 97%
 
+
+
 ----------------------------------------------------------
-Takeaways And Further Analysis
+Further Analysis
 ----------------------------------------------------------
 
-As you can see, all our models achieve the same values for all the evaluation metrics. This is not an error in our code or in our data, we have checked this multiple times as we couldn't believe it either. But it seems that all the models perform exactly the same on the single select questions despite being quite different. The good thing about that is, that all the metrics are really good. That means in 97% of all predictions, the model is right.
+As you can see, all our models achieve the same values for all the evaluation metrics. This is not an error in our code or in our data, we have checked this multiple times as we couldn't believe it either. But it seems that all the models perform exactly the same on the single select questions, despite being quite different. The good thing about that is, that all the metrics are really good. That means in 97% of all predictions, the model is right.
 
 If you want to dive into the training process, you can take a look at the behavior of the loss values for both training and validation loss.
 
@@ -120,7 +120,7 @@ If you want to dive into the training process, you can take a look at the behavi
 
 You may recognize, that both training and validation loss are decreasing with ongoing training progress. That means that we dont have major problems with **overfitting**.
 
-On the opposite should be the behavior of the **accuracy**. It schould increase with progressing training. To evaluate this, we can look at this curve as well.
+The opposite should be the behavior of the **accuracy**. It schould increase with progressing training. To evaluate this, we can look at this curve as well.
 
 .. image:: _static/single_metrics.png
    :align: center
