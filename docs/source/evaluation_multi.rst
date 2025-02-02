@@ -18,10 +18,11 @@ Training and Validation Loss
 ============================
 The following graph illustrates the training and validation loss for the **DistilBERT Multi-Select Model**:
 
-.. image:: loss_bert.png
+.. image:: _static/loss_bert.png
    :alt: Training and validation loss for DistilBERT Multi-Select
    :align: center
    :width: 80%
+
 
 The validation loss stabilizes after a few epochs, indicating that the model is learning effectively without overfitting.
 
@@ -31,7 +32,7 @@ F1 Score Over Epochs
 =====================
 The graph below shows the progression of the F1 score for **DistilBERT** and **RoBERTa** over training epochs:
 
-.. image:: f1.png
+.. image:: _static/f1.png
    :alt: F1 score over epochs for DistilBERT and RoBERTa
    :align: center
    :width: 80%
@@ -44,7 +45,7 @@ Hamming Loss for Multi-Select Models
 ====================================
 Hamming loss represents the proportion of incorrect labels assigned by the model:
 
-.. image:: hamming.png
+.. image:: _static/hamming.png
    :alt: Hamming loss for DistilBERT and RoBERTa Multi-Select
    :align: center
    :width: 80%
@@ -56,7 +57,7 @@ Jaccard Similarity for Multi-Select Models
 ==========================================
 Jaccard similarity measures how closely the predicted labels match the true labels:
 
-.. image:: jaccard.png
+.. image:: _static/jaccard.png
    :alt: Jaccard Similarity for DistilBERT and RoBERTa Multi-Select
    :align: center
    :width: 80%
@@ -69,7 +70,7 @@ Matthews Correlation Coefficient (MCC)
 ======================================
 MCC assesses the model's ability to distinguish between classes effectively:
 
-.. image:: matthews.png
+.. image:: _static/matthews.png
    :alt: MCC for DistilBERT and RoBERTa Multi-Select
    :align: center
    :width: 80%
@@ -82,7 +83,7 @@ Metrics Over Epochs for RoBERTa
 ===============================
 The following graph illustrates how accuracy, precision, recall, and F1 score evolve over time for the **RoBERTa Multi-Select Model**:
 
-.. image:: roberta_metric.png
+.. image:: _static/roberta_metric.png
    :alt: Metrics for RoBERTa Multi-Select
    :align: center
    :width: 80%
@@ -95,12 +96,12 @@ Interactive Evaluation Dashboard
 ================================
 A **dashboard** was created to visualize individual model predictions:
 
-.. image:: dashboard1.png
+.. image:: _static/dashboard1.png
    :alt: Dashboard example 1
    :align: center
    :width: 80%
 
-.. image:: dashboard2.png
+.. image:: _static/dashboard2.png
    :alt: Dashboard example 2
    :align: center
    :width: 80%
