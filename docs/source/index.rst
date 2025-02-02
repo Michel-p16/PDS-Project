@@ -19,9 +19,9 @@ This documentation provides a full guide on the generation and preprocessing of 
    choice_of_models
    data_preprocessing_single_select
    single_select_implementation
+   evaluation_single
    data_preprocessing_multi_select
    multi_select_implementation
-   evaluation_single
    evaluation_multi
-   challanges
+   challenges
    development
