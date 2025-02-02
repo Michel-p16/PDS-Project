@@ -21,6 +21,7 @@ This documentation provides a full guide on the generation and preprocessing of 
    single_select_implementation
    data_preprocessing_multi_select
    multi_select_implementation
-   evaluation
+   evaluation_single
+   evaluation_multi
    challanges
    development
