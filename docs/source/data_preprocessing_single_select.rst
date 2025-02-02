@@ -1,14 +1,14 @@
-Data Preprocessing for Fine-Tuning the Q&A Model
+Data Preprocessing for Single Select Questions
 ===============================================
 
-This section describes the preprocessing steps required to **prepare the dataset** for fine-tuning the **Q&A model**. We detail the conversion of raw JSON data into structured datasets, encoding categorical labels, splitting data into training and test sets, and transforming the data into a format suitable for **Hugging Face Transformers**.
+This section describes the preprocessing steps required to **prepare the single select dataset** for fine-tuning the **Q&A model**. We detail the conversion of raw JSON data into structured datasets, encoding categorical labels, splitting data into training and test sets, and transforming the data into a format suitable for **Hugging Face Transformers**.
 
 ---
 
 Converting JSON Data into a Structured DataFrame
 ------------------------------------------------
 Since the raw data genrated before is stored in a JSON format, the first step is to extract **relevant fields** and convert them into a structured **Pandas DataFrame**.
-We decided to **download an store relevant data** such as the training data locally, since we can access the needed data or documents easier in case the **google colab notebook crashes** or the runtime disconnects.
+We decided to **download an store relevant data** such as the training data locally, since we can access the needed data or documents easier in case the **Google Colab notebook crashes** or the runtime disconnects.
 
 .. code-block:: python
 
@@ -66,7 +66,6 @@ Since **machine learning models require numerical inputs**, categorical labels m
 
 
 
-We took this approach because it **prepares the data for supervised learning** by assigning integer indices to unique answer labels.
 
 ---
 
@@ -141,4 +140,4 @@ To train a **Transformer-based model**, the dataset must be converted into a **H
 
    print(dataset_single_select)
 
-This makes sure that the data is**compatibile with Hugging Face Transformers** for seamless model training.
+This makes sure that the data is **compatibile with Hugging Face Transformers** for seamless model training.
