@@ -22,20 +22,16 @@ Several challenges arose during the implementation and fine-tuning of the models
 
    - The dataset, while structured, lacked **diversity** in some categories. Even with all approaches to use prompt engeneering, it was still very challenging to create a dataset which could be used for meaningful training and results.
 
-4. **Project Goal**  
+4. **Underestimating Training Duration**  
 
-   - Especially when we started working on the project, there was a lot of confusion in our group. We were not sure what the actual goal is, what data should be created and what models should be used.
-
-5. **Underestimating Training Duration**  
-
-   - It took as a huge amount of time to train and finetune our models. We definetly did not expect the time needed to train to be as long as it actually was. Errors and debugging made it very time consuming to build our models. This brought us in a situation where we were not able anymore to fulfill all our goals cosidering the extra tasks.
+   - It took us a huge amount of time to train and finetune our models. We definetly did not expect the time needed to train to be as long as it actually was. Errors and debugging made it very time consuming to build our models. This brought us in a situation where we were not able anymore to fulfill all our goals cosidering the extra tasks.
 
 ---
 
 Future Work
 -----------
 
-Unfortunatly we were not able to implement everything that could be done and focused ond the implementation and evaluation of important models. Several improvements could enhance the project:
+Unfortunatly we were not able to implement everything that could be done and focused on the implementation and evaluation of important models. Several improvements could enhance the project:
 
 1. **Dataset Expansion**  
 
