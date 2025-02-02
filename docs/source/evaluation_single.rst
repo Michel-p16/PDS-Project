@@ -8,8 +8,7 @@ This section provides a detailed evaluation of the **RoBERTa**, **DistilBERT**, 
 RoBERTa Evaluation
 ----------------------------------------------------------
 
-Confusion Matrix
-----------------------------------------------------------
+**Confusion Matrix**
 
 The following confusion matrix illustrates the classification performance of RoBERTa on the test dataset:
 
@@ -44,8 +43,7 @@ The following confusion matrix illustrates the classification performance of RoB
 DistilBERT Evaluation
 ----------------------------------------------------------
 
-Confusion Matrix
-----------------------------------------------------------
+**Confusion Matrix**
 
 .. image:: _static/confusion_matrix_DistilBERT_single_select.png
    :align: center
@@ -78,8 +76,7 @@ Confusion Matrix
 TinyLlama Evaluation
 ----------------------------------------------------------
 
-Confusion Matrix
-----------------------------------------------------------
+**Confusion Matrix**
 
 .. image:: _static/confusion_matrix_LLaMA_single_select.png
    :align: center
@@ -109,7 +106,7 @@ Confusion Matrix
      - 97%
 
 ----------------------------------------------------------
-Takeaways
+Takeaways And Further Analysis
 ----------------------------------------------------------
 
 As you can see, all our models achieve the same values for all the evaluation metrics. This is not an error in our code or in our data, we have checked this multiple times as we couldn't believe it either. But it seems that all the models perform exactly the same on the single select questions despite being quite different. The good thing about that is, that all the metrics are really good. That means in 97% of all predictions, the model is right.
@@ -121,18 +118,16 @@ If you want to dive into the training process, you can take a look at the behavi
    :width: 75%
    :alt: Loss Development Over The Training Process - RoBERTa Single Select
 
-You may recognize, that both training and validation loss are decreasing with ongoing training progress. That means that we dont have major problems with **overfitting**
+You may recognize, that both training and validation loss are decreasing with ongoing training progress. That means that we dont have major problems with **overfitting**.
 
 On the opposite should be the behavior of the **accuracy**. It schould increase with progressing training. To evaluate this, we can look at this curve as well.
-
-The following confusion matrix illustrates the classification performance of RoBERTa on the test dataset:
 
 .. image:: _static/single_metrics.png
    :align: center
    :width: 75%
    :alt: Accuracy Over Epochs - RoBERTa Single Select
 
-As expected, the accuracy increases over time. But you can see as well, that the starting accuracy after the first epoch is really high already. That means that the model is already pretrained really good.
+As expected, the accuracy increases over time. But you can see as well, that the starting accuracy in the first epoch is quite high already. That means that the model is pretrained really good.
 
 
 
