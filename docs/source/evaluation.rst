@@ -1,188 +1,148 @@
-Evaluation of the Models
-========================
+.. _evaluation_single_select:
 
-This section presents the evaluation of the fine-tuned models for both **Single-Select** and **Multi-Select** questions. We analyze performance metrics such as **accuracy, F1-score, precision, recall**, and visualize **loss curves** and **confusion matrices**.
+======================================
+Evaluation of Single Select Models
+======================================
 
----
+This section evaluates the **RoBERTa**, **DistilBERT**, and **TinyLlama** models for single-select questions. We analyze various metrics such as **Confusion Matrices**, **Classification Reports**, and other performance evaluations.
 
-Single-Select Model Evaluations
--------------------------------
 
-RoBERTa Model
-~~~~~~~~~~~~~
-.. code-block:: python
+---------------------------------
+Confusion Matrices
+---------------------------------
 
-   # Load metrics and compute confusion matrix
-   cm = confusion_matrix(labels, preds_roberta)
-   classes = list(label_mapping_single_select.values())
+The Confusion Matrices visualize classification accuracy per class:
 
-   plt.figure(figsize=(15, 11))
-   ax = sns.heatmap(cm, annot=False, fmt="d", cmap="Blues",
-                    xticklabels=classes, yticklabels=classes, linewidths=0.5, linecolor="gray")
+- **Green numbers** along the diagonal indicate correctly classified instances.
+- **Red numbers** outside the diagonal indicate misclassified instances.
+- The **darker the color**, the higher the frequency of predictions for that class.
 
-   for i in range(cm.shape[0]):
-       for j in range(cm.shape[1]):
-           value = cm[i, j]
-           color = "green" if i == j else "red" if value > 0 else "black"
-           ax.text(j + 0.5, i + 0.5, str(value), ha="center", va="center", color=color)
+.. image:: _static/confusion_matrix_RoBERTa_single_select.png
+   :align: center
+   :width: 80%
+   :alt: Confusion Matrix RoBERTa Single Select
 
-   plt.xlabel("Predicted Label")
-   plt.ylabel("True Label")
-   plt.title("Confusion Matrix - RoBERTa Single-Select")
-   plt.savefig("roberta_single_confusion_matrix.png", bbox_inches="tight", dpi=300)
-   plt.show()
+.. image:: _static/confusion_matrix_DistilBERT_single_select.png
+   :align: center
+   :width: 80%
+   :alt: Confusion Matrix DistilBERT Single Select
 
-.. image:: /_static/A9724zzibDeRAAAAAElFTkSuQmCC.png
-   :width: 600px
-   :alt: RoBERTa Single-Select Confusion Matrix
+.. image:: _static/confusion_matrix_LLaMA_single_select.png
+   :align: center
+   :width: 80%
+   :alt: Confusion Matrix LLaMA Single Select
 
----
+---------------------------------
+Code for Generating Confusion Matrices
+---------------------------------
 
-DistilBERT Model
-~~~~~~~~~~~~~~~~
-.. code-block:: python
-
-   cm = confusion_matrix(labels, preds_distilbert)
-   plt.figure(figsize=(15, 11))
-   sns.heatmap(cm, annot=True, fmt="d", cmap="Blues",
-               xticklabels=classes, yticklabels=classes)
-   plt.title("Confusion Matrix - DistilBERT Single-Select")
-   plt.xlabel("Predicted Label")
-   plt.ylabel("True Label")
-   plt.savefig("distilbert_single_confusion_matrix.png", bbox_inches="tight", dpi=300)
-   plt.show()
-
-.. image:: /_static/GMFAAAAAC4iB0pAAAAAHARjRQAAAAAuIhGCgAAAABcRCMFAAAAAC6ikQIAAAAAF9FIAQAAAICLaKQAAAAAwEU0UgAAAADgon8BztsQ7vDmyJ4AAAAASUVORK5CYII.png
-   :width: 600px
-   :alt: DistilBERT Single-Select Confusion Matrix
-
----
-
-TinyLLaMA Model
-~~~~~~~~~~~~~~~
-.. code-block:: python
-
-   cm = confusion_matrix(labels, preds_llama)
-   plt.figure(figsize=(15, 11))
-   sns.heatmap(cm, annot=True, fmt="d", cmap="Blues",
-               xticklabels=classes, yticklabels=classes)
-   plt.title("Confusion Matrix - TinyLLaMA Single-Select")
-   plt.xlabel("Predicted Label")
-   plt.ylabel("True Label")
-   plt.savefig("llama_single_confusion_matrix.png", bbox_inches="tight", dpi=300)
-   plt.show()
-
----
-
-Multi-Select Model Evaluations
-------------------------------
-
-RoBERTa Multi-Label Model
-~~~~~~~~~~~~~~~~~~~~~~~~~
-.. code-block:: python
-
-   cm = multilabel_confusion_matrix(labels, preds_roberta_multi)
-   plt.figure(figsize=(15, 11))
-   sns.heatmap(cm[0], annot=True, fmt="d", cmap="Blues")
-   plt.title("Confusion Matrix - RoBERTa Multi-Select")
-   plt.xlabel("Predicted Label")
-   plt.ylabel("True Label")
-   plt.savefig("roberta_multi_confusion_matrix.png", bbox_inches="tight", dpi=300)
-   plt.show()
-
-.. image:: /_static/INuMqt7np3QAAAAASUVORK5CYII.png
-   :width: 600px
-   :alt: RoBERTa Multi-Select Confusion Matrix
-
----
-
-DistilBERT Multi-Label Model
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.. code-block:: python
-
-   cm = multilabel_confusion_matrix(labels, preds_distilbert_multi)
-   plt.figure(figsize=(15, 11))
-   sns.heatmap(cm[0], annot=True, fmt="d", cmap="Blues")
-   plt.title("Confusion Matrix - DistilBERT Multi-Select")
-   plt.xlabel("Predicted Label")
-   plt.ylabel("True Label")
-   plt.savefig("distilbert_multi_confusion_matrix.png", bbox_inches="tight", dpi=300)
-   plt.show()
-
----
-
-Loss and Performance Metrics
-----------------------------
-We compare **training loss and validation loss** for all models over epochs.
+The following code generates confusion matrices for all models:
 
 .. code-block:: python
 
-   def plot_losses(csv_path, model_name):
-       metrics_df = pd.read_csv(csv_path)
-       plt.figure(figsize=(10, 6))
-       plt.plot(metrics_df['epoch'], metrics_df['Training Loss'], label='Training Loss', color='blue', marker='o')
-       plt.plot(metrics_df['epoch'], metrics_df['Validation Loss'], label='Validation Loss', color='orange', marker='o')
-       plt.xlabel("Epoch")
-       plt.ylabel("Loss")
-       plt.title(f"Training and Validation Loss - {model_name}")
-       plt.legend()
-       plt.grid(True, linestyle='--', alpha=0.7)
-       plt.savefig(f"{model_name}_loss_plot.png", bbox_inches="tight")
-       plt.show()
+    def plot_confusion_matrix(true_label, pred_label, model_name, labels):
+        # Compute Confusion Matrix
+        cm = confusion_matrix(true_label, pred_label)
+        classes = list(labels.values())
 
-.. image:: /_static/roberta_multi_loss_plot.png
-   :width: 600px
-   :alt: Training and Validation Loss for RoBERTa Multi-Select
+        # Create a figure
+        plt.figure(figsize=(15, 11))
 
-.. image:: /_static/distilbert_multi_loss_plot.png
-   :width: 600px
-   :alt: Training and Validation Loss for DistilBERT Multi-Select
+        # Plot the heatmap without annotations
+        ax = sns.heatmap(cm, annot=False, fmt="d", cmap="Blues",
+                        xticklabels=classes, yticklabels=classes, linewidths=0.5, linecolor="gray")
 
----
+        # Overlay custom annotations with colors
+        for i in range(cm.shape[0]):  
+            for j in range(cm.shape[1]):  
+                value = cm[i, j]
+                color = "green" if i == j else ("red" if value > 0 else "black")
+                ax.text(j + 0.5, i + 0.5, str(value), ha="center", va="center", color=color)
 
-Performance Metrics
-~~~~~~~~~~~~~~~~~~~
-We also visualize accuracy, precision, recall, and F1-score for each model over training epochs.
+        # Adjust model name for display
+        model_display_name = {"deepset/roberta-base-squad2": "RoBERTa",
+                              "distilbert-base-uncased": "DistilBERT",
+                              "TinyLlama/TinyLlama-1.1B-Chat-v1.0": "LLaMA"}.get(model_name, model_name)
 
-.. code-block:: python
+        plt.xlabel("Predicted Label")
+        plt.ylabel("True Label")
+        plt.title(f"Confusion Matrix {model_display_name} SINGLE SELECT")
 
-   def plot_metrics(csv_path, model_name):
-       metrics_df = pd.read_csv(csv_path)
-       plt.figure(figsize=(10, 6))
-       plt.plot(metrics_df["epoch"], metrics_df["Accuracy"], label="Accuracy", marker="o")
-       plt.plot(metrics_df["epoch"], metrics_df["F1"], label="F1", marker="o")
-       plt.plot(metrics_df["epoch"], metrics_df["Precision"], label="Precision", marker="o")
-       plt.plot(metrics_df["epoch"], metrics_df["Recall"], label="Recall", marker="o")
-       plt.xlabel("Epoch")
-       plt.ylabel("Metrics")
-       plt.title(f"Metrics Over Epochs for {model_name}")
-       plt.legend()
-       plt.grid(True, linestyle="--", alpha=0.7)
-       plt.savefig(f"metrics_plot_{model_name}.png", bbox_inches="tight")
-       plt.show()
+        # Save the plot
+        plt.savefig(f"drive/MyDrive/CapStone_models/confusion_matrix_{model_display_name}_single_select.png", bbox_inches="tight", dpi=300)
+        plt.show()
 
-.. image:: /_static/metrics_roberta_multi.png
-   :width: 600px
-   :alt: Performance Metrics for RoBERTa Multi-Select
+---------------------------------
+Classification Reports
+---------------------------------
 
-.. image:: /_static/metrics_distilbert_multi.png
-   :width: 600px
-   :alt: Performance Metrics for DistilBERT Multi-Select
+The **Classification Reports** include key evaluation metrics:
 
----
+- **Precision**: The proportion of predicted positive cases that are actually positive.
+- **Recall**: The proportion of actual positive cases correctly predicted.
+- **F1-Score**: The harmonic mean of precision and recall.
+- **Support**: The number of true instances for each class.
 
-Conclusion
-----------
-- **RoBERTa outperforms other models** in both **Single-Select** and **Multi-Select** tasks.
-- **DistilBERT** provides a **lightweight alternative** with **slightly lower performance** but **faster training**.
-- **TinyLLaMA** shows **competitive performance** but struggles with certain fine-grained distinctions.
-- **Loss curves indicate effective learning**, with **validation loss stabilizing** across models.
-- **Confusion matrices highlight misclassification patterns**, guiding further improvements.
+Here are the classification reports for each model:
 
-Future work includes **fine-tuning hyperparameters**, **adding more labeled data**, and **testing alternative architectures**.
+**RoBERTa Classification Report**
 
----
+.. code-block:: text
 
-This concludes the **evaluation section** for all models used in this project.
+    Precision    Recall  F1-Score   Support
+    --------------------------------------
+    1-10        1.00      1.00      1.00        21
+    11-15       1.00      1.00      1.00        20
+    Computers & Networks  0.91      0.88      0.89        24
+    Construction Company  0.94      0.65      0.77        23
+    Government   1.00      1.00      1.00        27
+    SAP Sales Cloud  1.00      1.00      1.00        20
+    Overall Accuracy: 0.97
 
+**DistilBERT Classification Report**
+
+.. code-block:: text
+
+    Precision    Recall  F1-Score   Support
+    --------------------------------------
+    1-10        1.00      1.00      1.00        21
+    11-15       1.00      1.00      1.00        20
+    Computers & Networks  0.96      0.92      0.94        24
+    Construction Company  0.84      0.91      0.88        23
+    Government   1.00      1.00      1.00        27
+    SAP Sales Cloud  1.00      1.00      1.00        20
+    Overall Accuracy: 0.97
+
+**TinyLlama Classification Report**
+
+.. code-block:: text
+
+    Precision    Recall  F1-Score   Support
+    --------------------------------------
+    1-10        1.00      1.00      1.00        21
+    11-15       1.00      1.00      1.00        20
+    Computers & Networks  1.00      0.88      0.93        24
+    Construction Company  1.00      0.74      0.85        23
+    Government   1.00      1.00      1.00        27
+    SAP Sales Cloud  1.00      1.00      1.00        20
+    Overall Accuracy: 0.97
+
+---------------------------------
+Evaluation Summary
+---------------------------------
+
+All three models achieved an accuracy of approximately **97%**, but there are some key differences:
+
+- **RoBERTa** demonstrates high precision and recall across almost all categories.
+- **DistilBERT** performs similarly but shows lower recall in some rare categories like **Construction Company**.
+- **TinyLlama** has comparable results but exhibits lower recall in specific categories.
+
+### Future Improvements
+
+To enhance performance, the following strategies could be considered:
+
+- **Balanced Training Data**: Ensuring equal representation of all classes.
+- **Hyperparameter Tuning**: Optimizing learning rates, batch sizes, and loss functions.
+- **Data Augmentation**: Expanding training data through synthetic examples.
+- **Ensemble Models**: Combining multiple models to improve prediction robustness.
 
