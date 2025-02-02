@@ -3,11 +3,11 @@ Data Extraction and Dataset Creation with Gemini
 
 This section describes the steps taken to extract and process questionnaire data from JSON files and enhance it using **Google Gemini AI**.
 We decided to use **Gemini AI** because its quite easy accesible in the **free version** but still provides good generations to create useful training data.
----
+
 
 Merging JSON Files
 -------------------
-The first step is to merge multiple JSON files from the `Raw_data/` directory into a single dataset. This ensures that all questionnaire data is collected in a structured format.
+The first step is to merge multiple JSON files into a single dataset. This ensures that all questionnaire data is collected in a structured format.
 
 .. code-block:: python
 
@@ -70,11 +70,11 @@ To facilitate further processing, the dataset is split into two subsets:
 
 ---
 
-This allows us to handle the generation of answers to the quesions diffrent, according to their respective question type.
+This allows us to handle the generation of answers to the questions different, according to their respective question type.
 
 Enhancing Questions with Gemini AI
 -----------------------------------
-Some questions in the questionaires are not expressed as a typical question. For example the first "question" ist: "Data processing consent". Since we want to ask Gemini to answer the question from the viewpoint of a user, this may confuse the Gemini model and produce bad outputs.
+Some questions in the questionaires are not expressed as a typical question. For example the first "question" is: "Data processing consent". Since we want to ask Gemini to answer the question from the viewpoint of a user, this may confuse the Gemini model and produce bad outputs.
 To improve clarity, we use **Google Gemini AI** to generate more refined versions of the questions.
 
 **Step 1: Configuring the API**
@@ -131,7 +131,7 @@ To improve response diversity, **Gemini AI** generates a wide range of possible 
 
 **Step 1: Function for Answer Generation**
 
-We used a lot of prompt engeneering strategies here, to improve the generated outputs. The Gemini AI is told to create 100 different answers to each question and each label. That ensures a big dataset with a lot of variation to allow a good training in the following.
+We used a lot of prompt engeneering strategies here, to improve the generated outputs. The Gemini AI is requested to create 100 different answers to each question and each label. That ensures a big dataset with a lot of variation and allows a meaningful training in the following.
 
 .. code-block:: python
 
@@ -203,17 +203,8 @@ We used a lot of prompt engeneering strategies here, to improve the generated ou
 
 This approach ensures that:
 - **Single-choice answers** are well-structured.
+
 - **Multi-choice responses** contain valid combinations.
+
 - **Answers are diverse**, improving dataset richness.
-
----
-
-Final Thoughts
---------------
-This section detailed how:
-- **Raw JSON data is processed and structured**.
-- **Gemini AI refines questions** to ensure clarity.
-- **Diverse answer sets are generated** to enhance data quality.
-
-These steps form the foundation for **training and evaluating QA-models** on high-quality labeled data.
 
