@@ -15,7 +15,6 @@ This documentation provides a full guide on the generation and preprocessing of 
    :maxdepth: 2
    :caption: Contents:
 
-   installation
    data_generation
    choice_of_models
    data_preprocessing_single_select
