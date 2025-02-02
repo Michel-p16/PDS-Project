@@ -29,13 +29,13 @@ RoBERTa achieves **high precision and recall** across most classes. Minor miscla
    * - Metric
      - Value
    * - **Accuracy**
-     - 97%
+     - 96.1%
    * - **F1 Score**
-     - 97%
-   * - **Macro Average**
-     - 97%
-   * - **Weighted Average**
-     - 97%
+     - 95.5%
+   * - **Precision**
+     - 95.4%
+   * - **Recall**
+     - 96.1%
 
 
 
@@ -51,7 +51,7 @@ DistilBERT Evaluation
    :alt: Confusion Matrix - DistilBERT Single Select
 
 **Analysis:**
-DistilBERT maintains **high classification accuracy** while being computationally lighter. The missclassifications and the overall looks are very similar to RoBERTas. The **High diagonal density** suggests that the model generalizes well.
+DistilBERT maintains **high classification accuracy** while being computationally lighter. The missclassifications and the overall looks are very similar to RoBERTas. The **High diagonal density** suggests that the model performs good.
 
 **Key Metrics**
 
@@ -62,13 +62,13 @@ DistilBERT maintains **high classification accuracy** while being computationall
    * - Metric
      - Value
    * - **Accuracy**
-     - 97%
+     - 96.6%
    * - **F1 Score**
-     - 97%
-   * - **Macro Average**
-     - 97%
-   * - **Weighted Average**
-     - 97%
+     - 96.9%
+   * - **Precision**
+     - 97.4%
+   * - **Recall**
+     - 96.9%
 
 
 
@@ -95,13 +95,13 @@ TinyLlama performs **similarly to RoBERTa and DistilBERT**, despite its smaller 
    * - Metric
      - Value
    * - **Accuracy**
-     - 97%
+     - 98.5%
    * - **F1 Score**
-     - 97%
-   * - **Macro Average**
-     - 97%
-   * - **Weighted Average**
-     - 97%
+     - 98.5%
+   * - **Precision**
+     - 98.6%
+   * - **Recall**
+     - 98.5%
 
 
 
@@ -109,7 +109,7 @@ TinyLlama performs **similarly to RoBERTa and DistilBERT**, despite its smaller 
 Further Analysis
 ----------------------------------------------------------
 
-As you can see, all our models achieve the same values for all the evaluation metrics. This is not an error in our code or in our data, we have checked this multiple times as we couldn't believe it either. But it seems that all the models perform exactly the same on the single select questions, despite being quite different. The good thing about that is, that all the metrics are really good. That means in 97% of all predictions, the model is right.
+As you can see, all our models achieve similar values for all evaluation metrics. This is very positive, since all the values are really good for text classification tasks. It means that in approximatly 97% of all predictions, the models are right.
 
 If you want to dive into the training process, you can take a look at the behavior of the loss values for both training and validation loss.
 
