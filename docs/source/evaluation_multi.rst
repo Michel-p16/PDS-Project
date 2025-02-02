@@ -95,10 +95,14 @@ Interactive Evaluation Dashboard
 ================================
 A **dashboard** was created to visualize individual model predictions:
 
+At first it generates a random question out of the provided datasets and determine if its a single or multi select question. After that, the user can input his answer manually. By clicking 'predict' it uses the trained models from 'DistilBERT' and 'RoBERTa' to predict the labels of the answer text. Based on the outputs, a heatmap gets automatically generated for each model and shows the probabilities for every potential label from the dataset. We used this approach to gain more insights on the models decison making process.
+
 .. image:: _static/dashboard1.png
    :alt: Dashboard example 1
    :align: center
    :width: 80%
+
+The first example shows the question 'How many people work at your company?', which is a single select question, with the following answer 'In our company working three people at the moment.'. For that answer DistilBERT predicted the label '1-10', which is right, and RoBERTa predicted '11-50' in that case the wrong answer. The following heatmap for DistilBERT shows, that the model mainly ranged between two labels, but the right one got the better score. Meanwhile RoBERTa had some more issues, since the heatmap shows that several more labels were on the short list and the wrong label got chosen in the end. Based on this example you can see the difficulties from models to translate numerical values in letter values.
 
 
 .. image:: _static/dashboard2.png
@@ -106,7 +110,7 @@ A **dashboard** was created to visualize individual model predictions:
    :align: center
    :width: 80%
 
-Users can input questions and compare predictions made by **DistilBERT** and **RoBERTa** interactively.
+The second example shows the question 'What language should we use to communicate?', which is a single select question, with the following answer: 'I am not so good at german, so please talk english with me.'. For that answer DistilBERT predicted the label 'German', which is wrong, while RoBERTa predicted with 'English', the right label. Here you can also see clearly on the heatmap, that RoBERTa had several labels in the closer selection, but predicted right in the end. While DistilBERT probably made the mistake, to use the 'good at' in front of 'german' as the prediction and overlooked the connection to 'not so' in front of that. Based on that it becomes clear how impotantz it is for the model to recognize the complete connection and meaning in a sentence.
 
 
 
@@ -139,4 +143,7 @@ Below are the **final classification reports** for the multi-select models.
 
 Conclusion
 ==========
-Both models demonstrate solid performance, with **DistilBERT** generally achieving higher scores across multiple evaluation metrics.
+
+The evaluation of DistilBERT and RoBERTa for multi-select classification reveals differences in their performance across key metrics. **DistilBERT consistently outperforms RoBERTa** in terms of F1 score, Jaccard similarity, Matthews Correlation Coefficient (MCC), and Hamming loss. This indicates that DistilBERT not only achieves higher classification accuracy but also makes **fewer incorrect predictions** in multi-label settings. Although RoBERTa shows continuous improvement over epochs, its overall classification performance remains slightly lower. However, its ability to generalize well over time is evident in the stability of the evaluation metrics towards the later epochs.
+
+In conclusion, DistilBERT seems to be the better choice for this task, especially when high precision and recall are required.
