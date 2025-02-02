@@ -1,13 +1,13 @@
 Model Implementation for Single Select Questions
 =================================================
 
-This section describes the implementation of transformer-based models for **Single Select Question Classification**. The models were fine-tuned using **Hugging Face Transformers**.
+This section describes the implementation of models for **Single Select Question Classification**.
 
 ---
 
 RoBERTa Implementation
 -----------------------
-We used **RoBERTa** to classify the single select questions and answers to the correct label.
+We used **RoBERTa** to classify the single select question + answer pairs to the correct label.
 
 **1. Load the tokenizer and model:**
 
@@ -179,7 +179,7 @@ We tested **TinyLLaMA (TinyLLaMA-1.1B-Chat-v1.0)** for fine-tuning on resource-l
 
 ---
 
-Conclusion
+Notes
 ----------
-Since every of our group members implemented a diffrent model, you can see that the training arguments for the diffrent models may vary a little especially when it comes to training epochs and batchsize. In the next section you can see how the models were implemented to predict MULTI_SELECT questions.
+Since every of our group members implemented a diffrent model, you can see that the training arguments for the diffrent models may vary a little, especially when it comes to training epochs and batchsize.
 
