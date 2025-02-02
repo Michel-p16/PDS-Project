@@ -18,11 +18,10 @@ Training and Validation Loss
 ============================
 The following graph illustrates the training and validation loss for the **DistilBERT Multi-Select Model**:
 
-.. image:: _static/loss_bert.png
+.. image:: _static/bert_loss2.png
    :alt: Training and validation loss for DistilBERT Multi-Select
    :align: center
    :width: 80%
-
 
 The validation loss stabilizes after a few epochs, indicating that the model is learning effectively without overfitting.
 
@@ -101,6 +100,7 @@ A **dashboard** was created to visualize individual model predictions:
    :align: center
    :width: 80%
 
+
 .. image:: _static/dashboard2.png
    :alt: Dashboard example 2
    :align: center
@@ -118,7 +118,7 @@ Below are the **final classification reports** for the multi-select models.
 
 .. code-block:: text
 
-    Summary Values for distilbert_multi:
+
     Epoch  | Training Loss | Validation Loss | Accuracy | F1 Score | Precision | Recall | Hamming Loss | Jaccard Similarity | MCC
     -----------------------------------------------------------------------------------------------
     1      | 0.1336        | 0.142971        | 0.000000 | 0.000000 | 0.000000  | 0.000000 | 0.037862     | 0.000000           | 0.000000
@@ -130,7 +130,7 @@ Below are the **final classification reports** for the multi-select models.
 
 .. code-block:: text
 
-    Summary Values for roberta_multi:
+
     Epoch  | Training Loss | Validation Loss | Accuracy | F1 Score | Precision | Recall | Hamming Loss | Jaccard Similarity | MCC
     -----------------------------------------------------------------------------------------------
     1      | 0.1392        | 0.146601        | 0.000000 | 0.000000 | 0.000000  | 0.000000 | 0.037862     | 0.000000           | 0.000000
