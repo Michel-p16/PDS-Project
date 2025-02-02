@@ -4,11 +4,11 @@ PDS Final Project
 Welcome to the documentation of the **PDS Final Project**.
 
 This project focuses on:
-- Creating Processing **JSON-based questionnaires**.
-- Classifying **questions and answers** using a **fine-tuned transformer model**.
-- Leveraging **LLMs (Large Language Models)** for improved classification.
+- Creating and processing **questionnaires**, containing questions and answers.
+- Classifying questions and answers using **fine-tuned Q&A models**, to asign the answers to a predifined label.
+- Using **LLMs (Large Language Models)** for improved classification.
 
-This documentation provides a full guide on the generation and preprocessing of training data as well as the implementation of Q&A-Models for both single select and multi select questions.
+This documentation provides a full guide on the generation and preprocessing of training data as well as the implementation and evaluation of Q&A-Models for both single select and multi select questions. The documentation also gives insights to our decisions regarding model selection and evaluation strategies. We also look into challenges we had to face during our project and furhter improvement.
 
 
 .. toctree::
