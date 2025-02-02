@@ -4,20 +4,15 @@ Evaluation of Multi-Select Models
 
 This page presents the evaluation of the **DistilBERT** and **RoBERTa** models for multi-select classification. These models have been trained to predict multiple labels for each input and are assessed using various performance metrics.
 
-.. contents:: Table of Contents
-   :local:
-   :depth: 2
-
 Introduction
 ============
-The multi-select models are designed to assign multiple labels to each input. Their performance is evaluated using the following key metrics:
+The multi-select models are designed to assign one or multiple labels to each input. Their performance is evaluated using the following key metrics:
 
 - **F1 Score**: A balance between precision and recall.
 - **Hamming Loss**: Measures the proportion of incorrect labels in multi-label classification.
 - **Jaccard Similarity**: Assesses the similarity between predicted and actual labels.
 - **Matthews Correlation Coefficient (MCC)**: Evaluates the overall classification quality.
 
-.. _training-loss:
 
 Training and Validation Loss
 ============================
@@ -30,7 +25,7 @@ The following graph illustrates the training and validation loss for the **Disti
 
 The validation loss stabilizes after a few epochs, indicating that the model is learning effectively without overfitting.
 
-.. _f1-score:
+
 
 F1 Score Over Epochs
 =====================
@@ -43,7 +38,7 @@ The graph below shows the progression of the F1 score for **DistilBERT** and **R
 
 **DistilBERT** achieves high scores faster than **RoBERTa**, though both models improve steadily throughout training.
 
-.. _hamming-loss:
+
 
 Hamming Loss for Multi-Select Models
 ====================================
@@ -56,7 +51,6 @@ Hamming loss represents the proportion of incorrect labels assigned by the model
 
 Lower values indicate better performance. **DistilBERT** has a lower Hamming loss than **RoBERTa**, meaning it makes fewer incorrect predictions.
 
-.. _jaccard-similarity:
 
 Jaccard Similarity for Multi-Select Models
 ==========================================
@@ -69,7 +63,7 @@ Jaccard similarity measures how closely the predicted labels match the true labe
 
 Again, **DistilBERT** outperforms **RoBERTa**, demonstrating better alignment with the actual labels.
 
-.. _mcc:
+
 
 Matthews Correlation Coefficient (MCC)
 ======================================
@@ -82,7 +76,7 @@ MCC assesses the model's ability to distinguish between classes effectively:
 
 Higher MCC values indicate better classification performance, with **DistilBERT** outperforming **RoBERTa**.
 
-.. _roberta-metrics:
+
 
 Metrics Over Epochs for RoBERTa
 ===============================
@@ -95,7 +89,7 @@ The following graph illustrates how accuracy, precision, recall, and F1 score ev
 
 The consistent improvement across these metrics indicates effective model optimization.
 
-.. _dashboard:
+
 
 Interactive Evaluation Dashboard
 ================================
@@ -113,47 +107,7 @@ A **dashboard** was created to visualize individual model predictions:
 
 Users can input questions and compare predictions made by **DistilBERT** and **RoBERTa** interactively.
 
-.. _code-evaluation:
 
-Code for Model Evaluation
-=========================
-The following code was used to compute the evaluation metrics:
-
-.. code-block:: python
-
-    import pandas as pd
-    import matplotlib.pyplot as plt
-
-    multi_models = {
-        "distilbert_multi": "./summary_distilbert_multi.csv",
-        "roberta_multi": "./summary_roberta_multi.csv",
-    }
-
-    def process_metrics(csv_path, model_name):
-        df = pd.read_csv(csv_path)
-
-        print(f"Summary for {model_name}:\n", df.tail())
-
-        df.to_csv(f"./summary_{model_name}.csv", index=False)
-
-    for model_name, csv_path in multi_models.items():
-        process_metrics(csv_path, model_name)
-
-    def plot_f1(models):
-        plt.figure(figsize=(10, 6))
-        for model_name, csv_path in models.items():
-            df = pd.read_csv(csv_path)
-            plt.plot(df['epoch'], df['F1'], label=model_name)
-
-        plt.xlabel("Epoch")
-        plt.ylabel("F1 Score")
-        plt.title("F1 Score over Epochs")
-        plt.legend()
-        plt.show()
-
-    plot_f1(multi_models)
-
-.. _classification-reports:
 
 Classification Reports
 ======================
