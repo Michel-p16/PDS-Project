@@ -23,7 +23,7 @@ The following confusion matrix illustrates the classification performance of RoB
 - Minor misclassifications occur in **similar categories**, such as technology-related industries.
 - **Strong diagonal alignment** indicates that most predictions are correct.
 
-### Key Metrics
+**Key Metrics**
 
 .. list-table::
    :widths: 30 20
@@ -57,7 +57,7 @@ Confusion Matrix
 - The **misclassification rate is slightly higher** than RoBERTa in complex categories.
 - **High diagonal density** suggests that the model generalizes well.
 
-### Key Metrics
+**Key Metrics**
 
 .. list-table::
    :widths: 30 20
@@ -91,7 +91,7 @@ Confusion Matrix
 - More **misclassifications appear in less frequent classes**.
 - **Still achieves high overall performance**.
 
-### Key Metrics
+**Key Metrics**
 
 .. list-table::
    :widths: 30 20
@@ -109,10 +109,32 @@ Confusion Matrix
      - 97%
 
 ----------------------------------------------------------
-Comparison of Single-Select Models
+Takeaways
 ----------------------------------------------------------
 
 As you can see, all our models achieve the same values for all the evaluation metrics. This is not an error in our code or in our data, we have checked this multiple times as we couldn't believe it either. But it seems that all the models perform exactly the same on the single select questions despite being quite different. The good thing about that is, that all the metrics are really good. That means in 97% of all predictions, the model is right.
+
+If you want to dive into the training process, you can take a look at the behavior of the loss values for both training and validation loss.
+
+.. image:: _static/single_loss.png
+   :align: center
+   :width: 75%
+   :alt: Loss Development Over The Training Process - RoBERTa Single Select
+
+You may recognize, that both training and validation loss are decreasing with ongoing training progress. That means that we dont have major problems with **overfitting**
+
+On the opposite should be the behavior of the **accuracy**. It schould increase with progressing training. To evaluate this, we can look at this curve as well.
+
+The following confusion matrix illustrates the classification performance of RoBERTa on the test dataset:
+
+.. image:: _static/single_metrics.png
+   :align: center
+   :width: 75%
+   :alt: Accuracy Over Epochs - RoBERTa Single Select
+
+As expected, the accuracy increases over time. But you can see as well, that the starting accuracy after the first epoch is really high already. That means that the model is already pretrained really good.
+
+
 
 ----------------------------------------------------------
 Evaluation Code
